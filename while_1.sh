@@ -31,6 +31,9 @@ if [[ $REPLY == 3 ]]; then
 	if [[ $(id -u) -eq 0 ]]; then 
 		echo "Home Space Utilization (All users)"
 		du -sch /home/*
+	elif [[ $(id -u) -ne 0 ]]; then
+		sudo du -sch /home/*
+		sleep $DELAY	
 	else
 		echo "Home Space Utilization ($USER)"
 		du -sch $HOME 
