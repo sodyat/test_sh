@@ -1,0 +1,5 @@
+#interest / 12
+#p sum of credit 
+#i interest(procent)
+sumofcredit * ((i * ((1 + i)) ^ n)) / (((1 + i) ^ n) - 1))
+
