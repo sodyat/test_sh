@@ -63,9 +63,9 @@ write_html_page () {
 	<BODY>
 	<H1>$TITILE</H1>
 	<P>$TIME_STAMP</P>
-	$(report_uptime)
-	$(report_disk_space)
-	$(report_home_space)
+	$(uptime)
+	$(df -h)
+	$(du -sch /Users/yat/*)		
 	</BODY>
 	</HTML>
 	_EOF_
