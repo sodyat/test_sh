@@ -65,7 +65,11 @@ write_html_page () {
 	<P>$TIME_STAMP</P>
 	$(uptime)
 	$(df -h)
+<<<<<<< HEAD
 	$(du -sch /Users/yat/*)		
+=======
+	$(du -sch *) 
+>>>>>>> a9857896ab653abe377346437d352309a56ff807
 	</BODY>
 	</HTML>
 	_EOF_

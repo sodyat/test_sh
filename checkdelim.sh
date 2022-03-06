@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for ((i=0; i <= 20; ++i)); do
+	remainder=$((i % 5))
+	if ((remainder == 0)); then
+		printf "<%d> " $i
+	elif ((remainder != 0)); then
+		remainder=$((remainder - remainder))
+		printf "%d " $remainder
+	fi
+done
+printf "\n"
+

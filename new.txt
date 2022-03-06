@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <HTML> 
 <HEAD>
 <TITLE> </TITLE>
@@ -9,3 +10,7 @@
 
 </BODY>
 </HTML>
+=======
+true
+false
+>>>>>>> a9857896ab653abe377346437d352309a56ff807

@@ -1,0 +1,3415 @@
+AD password: 
+Отчет 2022-02-24/25 мониторинг, ночь
+==[ Мониторинг ]==
+
+===[ Информация для сменщика ]===
+
+/// Пробники не в обработке
+нет
+
+/// Очередь СУХ
+нет
+
+/// Дополнительная информация
+нет
+
+===[ Пробники в обработке ]===
+
+Amsterdam ext monitoring node --- Packages state --- Обновляем
+Amsterdam ext monitoring node --- Packages state --- Обновляем
+Amsterdam ext monitoring node --- Packages state --- Обновляем
+ac2.mail --- Firmware --- обновляем
+ac2.mail --- Host address --- до крита
+ac2.mail --- packages state --- обновляем
+ac3.mail --- Firmware --- обновляем
+ac3.mail --- Host address --- 38048412529 — Host address
+ac3.mail --- check_ptr --- hide
+ac3.mail --- packages state --- обновляем
+adm3.hq.infra --- Firmware --- обновляем
+adm3.hq.infra --- packages state --- обновляем
+ads500.hs.shared --- Puppet last run --- 32516522018
+ads616.hs.shared --- Firmware --- обновляем
+ads616.hs.shared --- packages state --- обновляем
+ads622.hs.shared --- Firmware --- Обновляем
+ads622.hs.shared --- oversize tables --- 36988255362 u424435_toyo mysql предупреждение 18.11.21
+ads622.hs.shared --- packages state --- обновляем
+ads629.hs.shared --- Firmware --- обновляем
+ads629.hs.shared --- packages state --- обновляем
+ads630.hs.shared --- Firmware --- обновляем
+ads630.hs.shared --- packages state --- обновляем
+ads631.hs.shared --- Firmware --- Обновляем
+ads631.hs.shared --- packages state --- Обновляем
+ads632.hs.shared --- Firmware --- обновляем
+ads632.hs.shared --- packages state --- обновляем
+ads634.hs.shared --- Firmware --- обновляем
+ads634.hs.shared --- packages state --- обновляем
+ads636.hs.shared --- Firmware --- обновляем
+ads636.hs.shared --- packages state --- обновляем
+ads637.hs.shared --- Firmware --- обновляем
+ads637.hs.shared --- packages state --- обновляем
+ads647.hs.shared --- Firmware --- Обновляем
+ads647.hs.shared --- packages state --- Обновляем
+ads676.hs.shared --- Firmware --- обновляем
+ads676.hs.shared --- Swap --- до крита
+ads676.hs.shared --- packages state --- обновляем
+ads678.hs.shared --- Host address --- 38048412529 — Host address
+ads678.hs.shared --- check_ptr --- hide
+ads678.hs.shared --- packages state --- обновляем
+ads685.hs.shared --- Firmware --- обновляем
+ads685.hs.shared --- packages state --- обновляем
+ads688.hs.shared --- Firmware --- обновляем
+ads688.hs.shared --- packages state --- обновляем
+ads690.hs.shared --- Firmware --- обновляем
+ads690.hs.shared --- packages state --- обновляем
+ads691.hs.shared --- Disk usage --- до крита
+ads691.hs.shared --- Firmware --- до крита
+ads691.hs.shared --- packages state --- обновляем
+ads692.hs.shared --- Firmware --- Обновляем
+ads692.hs.shared --- packages state --- Обновляем
+ads693.hs.shared --- Firmware --- обновляем
+ads693.hs.shared --- packages state --- обновляем
+ads705.hs.shared --- Firmware --- обновляем
+ads705.hs.shared --- packages state --- обновляем
+ads712.hs.shared --- Firmware --- обновляем
+ads712.hs.shared --- packages state --- обновляем
+ads718.hs.shared --- Firmware --- обновляем
+ads718.hs.shared --- packages state --- обновляем
+ads720.hs.shared --- Firmware --- до крита
+ads720.hs.shared --- packages state --- обновляем
+ads728.hs.shared --- Firmware --- обновляем
+ads728.hs.shared --- packages state --- обновляем
+ads732.hs.shared --- Firmware --- обновляем
+ads732.hs.shared --- packages state --- обновляем
+ads735.hs.shared --- CPU power --- перенастроить bios на hp
+ads735.hs.shared --- Firmware --- обновляем
+ads735.hs.shared --- ipmi sensor --- wc
+ads735.hs.shared --- needrestart --- needrestart
+ads735.hs.shared --- packages state --- Обновляем
+ads741.hs.shared --- Firmware --- Обновляем
+ads741.hs.shared --- packages state --- Обновляем
+ads750.hs.shared --- CPU power --- перенастроить bios на hp
+ads750.hs.shared --- Firmware --- обновляем
+ads750.hs.shared --- Memory --- wc
+ads750.hs.shared --- packages state --- Обновляем
+ads758.hs.shared --- CPU power --- Включаем в bios'е
+ads758.hs.shared --- Firmware --- обновляем
+ads758.hs.shared --- needrestart --- need restart
+ads758.hs.shared --- packages state --- Обновляем
+ads759.hs.shared --- CPU power --- Включаем в bios'е
+ads759.hs.shared --- needrestart --- обновляем
+ads759.hs.shared --- packages state --- Обновляем
+ads760.hs.shared --- Firmware --- обновляем
+ads760.hs.shared --- packages state --- Обновляем
+ads761.hs.shared --- CPU power --- Включаем в bios'е
+ads761.hs.shared --- needrestart --- needrestart
+ads761.hs.shared --- packages state --- Обновления
+ads762.hs.shared --- CPU power --- Включаем в bios'е
+ads762.hs.shared --- needrestart --- needrestart
+ads762.hs.shared --- packages state --- обновляем
+ads763.hs.shared --- CPU power --- Включаем в bios'е
+ads763.hs.shared --- Firmware --- Обновляем
+ads763.hs.shared --- packages state --- Обновляем
+ads764.hs.shared --- CPU power --- Включаем в bios'е
+ads764.hs.shared --- Firmware --- обновляем
+ads764.hs.shared --- Kernel state --- до крита
+ads764.hs.shared --- needrestart --- needrestart
+ads764.hs.shared --- packages state --- Обновления
+ads765.hs.shared --- CPU power --- Включаем в bios'е
+ads765.hs.shared --- Firmware --- Обновляем
+ads765.hs.shared --- Memory --- wc
+ads765.hs.shared --- packages state --- Обновляем
+ads766.hs.shared --- Firmware --- Обновляем
+ads766.hs.shared --- Memory --- до крита
+ads766.hs.shared --- needrestart --- need restart
+ads766.hs.shared --- packages state --- обновляем
+ads767.hs.shared --- CPU power --- Включаем в bios'е
+ads767.hs.shared --- needrestart --- need restart
+ads767.hs.shared --- packages state --- обновляем
+ads768.hs.shared --- CPU power --- Включаем в bios'е
+ads768.hs.shared --- Firmware --- Обновляем
+ads768.hs.shared --- needrestart --- need restart
+ads768.hs.shared --- packages state --- обновляем
+ads769.hs.shared --- needrestart --- needrestart
+ads769.hs.shared --- packages state --- Обновления
+ads771.hs.shared --- Kernel state --- тут все ок
+ads771.hs.shared --- needrestart --- need restart
+ads771.hs.shared --- packages state --- Обновляем
+aop.corp --- reboot Pending --- 37114676003
+api.hex.masterhost.ru --- Host address --- 38048412529 — Host address
+archive1.mail.bill --- Kernel state --- Обновляют Unix
+archive1.mail.bill --- needrestart --- need restart
+archive1.mail.bill --- packages state --- Обновляем
+artifactory1.infra --- Host address --- 38048412529 — Host address
+artifactory1.infra --- Memory --- до крита
+artifactory1.infra --- check_ptr --- hide
+artifactory1.infra --- packages state --- Обновляем
+as3.test.bill --- packages state --- #33239096001 — Пробники *bill
+as5.bill --- packages state --- до крита
+as6.bill --- packages state --- Обновляем
+auth12.mail --- Firmware --- обновляем
+auth12.mail --- packages state --- до крита
+auth13.mail --- Firmware --- обновляем
+auth13.mail --- packages state --- Обновляем
+autoconfig.mail.masterhost.ru --- Host address --- до крита
+autotest3.dev.bill --- Kernel state --- 30389618662
+autotest3.dev.bill --- packages state --- Обновляют Unix
+autotest4.dev.bill --- Kernel state --- 30389618662
+autotest4.dev.bill --- packages state --- Обновляют Unix
+be1.mail --- CPU power --- Включаем в bios'е
+be1.mail --- Disk usage --- до крита
+be1.mail --- Firmware --- обновляем
+be1.mail --- Kernel state --- обновляем
+be1.mail --- needrestart --- needrestart
+be2.mail --- CPU power --- Включаем в bios'е
+be2.mail --- Disk usage --- До крита
+be2.mail --- Firmware --- обновляем
+be2.mail --- Kernel state --- обновляем
+be2.mail --- needrestart --- needrestart
+be3.mail --- CPU power --- Включаем в bios'е
+be3.mail --- Disk usage --- До крита
+be3.mail --- Firmware --- обновляем
+be3.mail --- Kernel state --- обновляем
+be3.mail --- needrestart --- needrestart
+be4.mail --- CPU power --- Включаем в bios'е
+be4.mail --- Disk usage --- wc
+be4.mail --- Firmware --- обновляем
+be4.mail --- Kernel state --- обновляем
+be4.mail --- needrestart --- need restart - The acknowledgement expires at: 2020-07-20 16:39:55.
+be5.mail --- Disk usage --- до крита
+be5.mail --- Firmware --- обновляем
+be5.mail --- Kernel state --- обновляем
+be5.mail --- needrestart --- need restart
+be6.mail --- CPU power --- Включаем в bios'е
+be6.mail --- Disk usage --- wc
+be6.mail --- Firmware --- обновляем
+be6.mail --- Kernel state --- обновляем
+be6.mail --- needrestart --- обновления
+be7.mail --- CPU power --- Включаем в bios'е
+be7.mail --- Disk usage --- до крита
+be7.mail --- Firmware --- обновляем
+be7.mail --- Kernel state --- обновляем
+be7.mail --- needrestart --- needrestart
+be8.mail --- CPU power --- Включаем в bios'е
+be8.mail --- Firmware --- обновляем
+be8.mail --- Kernel state --- обновляем
+be8.mail --- needrestart --- needrestart
+bill --- Ochered_TEST_CHANGES --- 30297185964
+bk2.hs.shared --- Firmware --- обновляем
+bk2.hs.shared --- packages state --- обновляем
+bk3.hs.shared --- Firmware --- обновляем
+bk3.hs.shared --- packages state --- обновляем
+bk5.pvc --- disk usage --- до крита
+blue1.hs.shared --- CPU power --- Включаем в bios'е
+blue1.hs.shared --- needrestart --- needrestart
+blue1.hs.shared --- packages state --- Обновляем
+blue3.hs.shared --- Kernel state --- до крита
+blue3.hs.shared --- needrestart --- needrestart
+blue3.hs.shared --- packages state --- Обновления
+bs7.hs.shared --- Firmware --- Обновляем
+bs7.hs.shared --- packages state --- обновляем
+bs8.hs.shared --- Firmware --- обновляем
+bs8.hs.shared --- packages state --- обновляем
+btx30.hs.shared --- CPU power --- Включаем в bios'е
+btx30.hs.shared --- Disk usage --- до крита
+btx30.hs.shared --- Firmware --- обновляем
+btx30.hs.shared --- needrestart --- needrestart
+btx30.hs.shared --- packages state --- обновляем
+btx31.hs.shared --- CPU power --- Включаем в bios'е
+btx31.hs.shared --- packages state --- Обновляем
+btx32.hs.shared --- CPU power --- Включаем в bios'е
+btx32.hs.shared --- Disk usage --- до крита
+btx32.hs.shared --- Firmware --- обновляем
+btx32.hs.shared --- packages state --- Обновляем
+btx33.hs.shared --- CPU power --- Включаем в bios'е
+btx33.hs.shared --- Disk usage --- до крита
+btx33.hs.shared --- Firmware --- обновляем
+btx33.hs.shared --- needrestart --- needrestart
+btx33.hs.shared --- packages state --- Обновляем
+btx34.hs.shared --- CPU power --- Включаем в bios'е
+btx34.hs.shared --- Disk usage --- до крита
+btx34.hs.shared --- packages state --- Обновления
+btx36.hs.shared --- CPU power --- Включаем в bios'е
+btx36.hs.shared --- packages state --- Обновляем
+btx37.hs.shared --- CPU power --- Включаем в bios'е
+btx37.hs.shared --- Firmware --- обновляем
+btx37.hs.shared --- packages state --- Обновления
+btx38.hs.shared --- CPU power --- Включаем в bios'е
+btx38.hs.shared --- Firmware --- Обновляем
+btx38.hs.shared --- packages state --- Обновляем
+bugzilla1.archive --- needrestart --- need restart
+bugzilla1.archive --- packages state --- обновляем
+build.svn.masterhost.ru --- Host address --- 38048412529 — Host address
+ca.team --- Host address --- до крита
+ca.team --- reboot Pending --- 37114676003 — Windows reboot pending
+cache10.dns.infra --- Firmware --- обновляем
+cache10.dns.infra --- Host address --- 38048412529 — Host address
+cache10.dns.infra --- packages state --- обновляем
+cache7.dns.infra --- Firmware --- обновляем
+cache7.dns.infra --- Host address --- 38048412529 — Host address
+cache7.dns.infra --- packages state --- Обновляют unix
+callobserver.masterhost.ru --- Host address --- 38048412529 — Host address
+callobserver2.corp --- Host address --- 38048412529 — Host address
+callobserver2.corp --- check_ptr --- hide
+callobserver2.corp --- packages state --- Обновляем
+catalog11.shared.backup --- Firmware --- обновляем
+catalog11.shared.backup --- packages state --- обновляем
+catalog12.shared.backup --- Firmware --- обновляем
+catalog12.shared.backup --- packages state --- обновляем
+catalog13.shared.backup --- Firmware --- обновляем
+catalog13.shared.backup --- packages state --- обновляем
+catalog14.shared.backup --- packages state --- обновляем
+catalog15.shared.backup --- Firmware --- обновляем
+catalog15.shared.backup --- packages state --- обновляем
+catalog16.shared.backup --- Firmware --- обновляем
+catalog16.shared.backup --- packages state --- обновляем
+cbs2.hs.shared --- Firmware --- обновляем
+cbs2.hs.shared --- packages state --- обновляем
+cfssl1.pki --- Kernel state --- Обновляем
+cfssl1.pki --- packages state --- обновляем
+cfssl1.test.pki --- Kernel state --- обновляет unix
+cfssl1.test.pki --- LOAD --- wc
+cfssl1.test.pki --- needrestart --- обновляем
+cfssl1.test.pki --- packages state --- Обновляем
+clients.masterhost.ru --- Host address --- 38048412529 — Host address
+clientstorage.masterhost.ru --- Host address --- 38048412529 — Host address
+clientstorage2.bill --- packages state --- #33239096001 — Пробники *bill
+cloud.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+cloud.test.masterhost.ru --- Host address --- 38048412529 — Host address
+cloud1.corp --- Kernel state --- обновляем
+cloud1.corp --- needrestart --- #36219994172 — unix - needrestart
+cloud1.corp --- packages state --- обновляем
+cm103.hs.shared --- Firmware --- обновляем
+cm103.hs.shared --- packages state --- обновляем
+cm106.hs.shared --- Disk usage --- до крита
+cm106.hs.shared --- Firmware --- обновляем
+cm106.hs.shared --- packages state --- обновляем
+cm99.hs.shared --- Host address --- 38048412529 — Host address
+cp1.bill --- packages state --- обновляем
+cp2.bill --- packages state --- Обновляют unix
+cron2.bill --- Billing certificates --- 30344433882
+cron2.bill --- packages state --- Обновляют Unix
+cron3.bill --- CMS updates --- 33239096001 — Пробники *bill
+cron3.bill --- packages state --- До крита
+cron4.bill --- CryptoPro keys --- 36311528892
+cron4.bill --- packages state --- до крита
+css1.hs.shared --- packages state --- обновляем
+ctrl1.cloud.nebula --- Kernel state --- обновляет unix
+ctrl1.cloud.nebula --- needrestart --- need restart
+ctrl1.cloud.nebula --- packages state --- Обновления
+ctrl1.infra.backup --- packages state --- обновляем
+ctrl1.nebula --- Kernel state --- обновляем
+ctrl1.nebula --- needrestart --- 36219994172 — unix - needrestart
+ctrl1.nebula --- packages state --- обновляет unix
+ctrl1.noc --- packages state --- Обновляем
+ctrl1.shared.backup --- Firmware --- обновляем
+ctrl1.shared.backup --- packages state --- обновляем
+ctrl1.test.nebula --- Kernel state --- обновляем
+ctrl1.test.nebula --- needrestart --- need restart
+ctrl1.test.nebula --- packages state --- Обновляют unix
+ctrl2.cloud.nebula --- Kernel state --- Обновляем
+ctrl2.cloud.nebula --- needrestart --- 36219994172 — unix - needrestart
+ctrl2.cloud.nebula --- packages state --- Обновляем
+ctrl2.nebula --- Kernel state --- обновляет unix
+ctrl2.nebula --- needrestart --- 36219994172 — unix - needrestart
+ctrl2.nebula --- packages state --- обновляет unix
+ctrl2.test.nebula --- Kernel state --- Обновляет unix
+ctrl2.test.nebula --- needrestart --- need restart
+ctrl2.test.nebula --- packages state --- Обновляем
+ctrl3.cloud.nebula --- Kernel state --- обновляем
+ctrl3.cloud.nebula --- needrestart --- обновляет unix
+ctrl3.cloud.nebula --- packages state --- Обновляем
+ctrl3.nebula --- Kernel state --- обновляет unix
+ctrl3.nebula --- needrestart --- до крита
+ctrl3.nebula --- packages state --- Обновляют Unix
+ctrl3.test.nebula --- Host address --- 36107051766 — Unix test infrastructure services
+ctrl3.test.nebula --- Kernel state --- обновляем
+ctrl3.test.nebula --- check_ptr --- 36107051766 — Unix test infrastructure services
+ctrl3.test.nebula --- needrestart --- 36219994172 — unix - needrestart
+ctrl3.test.nebula --- packages state --- Обновляем
+ctrlshwin2.bill --- Firmware --- обновляем
+ctrlshwin2.bill --- Host address --- #33239096001 — Пробники *bill
+ctrlshwin2.bill --- check_ptr --- #33239096001 — Пробники *bill
+ctrlshwin2.bill --- packages state --- до крита
+ctrlshwin2.test.bill --- packages state --- Обновляем
+cups.bill.masterhost.ru --- Host address --- #33239096001 — Пробники *bill
+cups1.bill --- needrestart --- 36219994172 — unix - needrestart
+cups1.bill --- packages state --- обновляем
+cups1.test.bill --- needrestart --- 36219994172 unix - needrestart
+cups1.test.bill --- packages state --- Обновляет unix
+cups2.bill --- needrestart --- до крита
+cups2.bill --- packages state --- Обновляет unix
+db1.bill --- Firmware --- обновляем
+db1.bill --- Kernel state --- обновляем
+db1.bill --- needrestart --- 36219994172
+db1.bill --- packages state --- Обновляем
+db1.bill --- replication state --- 36555123482
+db2.bill --- Firmware --- обновляем
+db2.bill --- Host address --- #38048412529 — Host address
+db2.bill --- Kernel state --- обновляем
+db2.bill --- needrestart --- 36219994172
+db2.bill --- packages state --- Обновляют unix
+db3.corp --- Firmware --- обновляем
+db3.corp --- packages state --- до крита
+db3.dev.bill --- Kernel state --- обновляем
+db3.dev.bill --- needrestart --- needrestart
+db3.dev.bill --- packages state --- Обновляют unix
+db3.patch.bill --- Kernel state --- обновляем
+db3.patch.bill --- needrestart --- 36219994172 — unix - needrestart
+db3.patch.bill --- packages state --- обновляем
+db3.test.bill --- Host address --- до крита
+db3.test.bill --- Kernel state --- обновляем
+db3.test.bill --- needrestart --- needrestart
+db3.test.bill --- packages state --- Обновляем
+db4.corp --- packages state --- обновляем
+dbe325.hs.shared --- disk usage --- wc
+dbe421.hs.shared --- disk usage --- wc
+dbe422.hs.shared --- disk usage --- до крита
+dbe424.hs.shared --- disk usage --- до крита
+dbe426.hs.shared --- disk usage --- до крита
+dbe429.hs.shared --- disk usage --- delay
+dbe430.hs.shared --- disk usage --- delay
+dbe431.hs.shared --- disk usage --- до крита
+dbe433.hs.shared --- disk usage --- до крита
+dbe605.hs.shared --- Disk usage --- wc
+dbe605.hs.shared --- Firmware --- обновляем
+dbe605.hs.shared --- Swap --- До крита
+dbe605.hs.shared --- packages state --- обновляем
+dbe606.hs.shared --- Firmware --- обновляем
+dbe606.hs.shared --- packages state --- обновляем
+dbe607.hs.shared --- Firmware --- обновляем
+dbe607.hs.shared --- packages state --- обновляем
+dbe609.hs.shared --- Firmware --- обновляем
+dbe609.hs.shared --- packages state --- обновляем
+dbe610.hs.shared --- Firmware --- обновляем
+dbe610.hs.shared --- Swap --- До крита
+dbe610.hs.shared --- packages state --- обновляем
+dbe611.hs.shared --- Firmware --- обновляем
+dbe611.hs.shared --- packages state --- обновляем
+dbe612.hs.shared --- Disk usage --- до крита
+dbe612.hs.shared --- Firmware --- обновляем
+dbe612.hs.shared --- packages state --- обновляем
+dbe620.hs.shared --- Swap --- до крита
+dbe620.hs.shared --- packages state --- обновляем
+dbe623.hs.shared --- Disk usage --- до крита
+dbe623.hs.shared --- Firmware --- обновляем
+dbe623.hs.shared --- Swap --- до крита
+dbe623.hs.shared --- packages state --- обновляем
+dbe624.hs.shared --- Disk usage --- до крита
+dbe624.hs.shared --- Firmware --- обновляем
+dbe624.hs.shared --- packages state --- обновляем
+dbe625.hs.shared --- Disk usage --- до крита
+dbe625.hs.shared --- Swap --- до крита
+dbe625.hs.shared --- packages state --- обновляем
+dbe626.hs.shared --- Firmware --- обновляем
+dbe626.hs.shared --- Swap --- До крита
+dbe626.hs.shared --- packages state --- обновляем
+dbe627.hs.shared --- Firmware --- обновляем
+dbe627.hs.shared --- Swap --- до крита
+dbe627.hs.shared --- packages state --- обновляем
+dbe629.hs.shared --- Firmware --- обновления
+dbe629.hs.shared --- packages state --- обновляем
+dbe631.hs.shared --- Firmware --- обновляем
+dbe631.hs.shared --- packages state --- обновляем
+dbe632.hs.shared --- Firmware --- обновляем
+dbe632.hs.shared --- packages state --- обновляем
+dbe633.hs.shared --- Firmware --- обновляем
+dbe633.hs.shared --- packages state --- обновляем
+dbe634.hs.shared --- Firmware --- обновляем
+dbe634.hs.shared --- packages state --- Обновляем
+dbe635.hs.shared --- packages state --- обновляем
+dc05.team --- check_git --- до крита
+deb1.dev --- Firmware --- Обновляют unix
+deb1.dev --- check_ptr --- hide
+deb1.dev --- needrestart --- 32651158286
+deb1.dev --- packages state --- Обновляем
+deb2.dev --- check_ptr --- 36107051766 — Unix test infrastructure services
+deb2.dev --- needrestart --- обновляем
+dev.proxy.whois --- Host address --- до крита
+dev.test.hv.vm --- Host address --- 38048412529 — Host address
+dev1.proxy.whois --- Memory --- wc
+dev1.proxy.whois --- needrestart --- need restart
+dev1.proxy.whois --- packages state --- обновляем
+dev2.xen.virt --- Firmware --- обновляем
+dev2.xen.virt --- Host address --- 38048412529 — Host address
+dev2.xen.virt --- check_ptr --- hide
+dev2.xen.virt --- packages state --- Обновляем
+dev3.xen.virt --- Firmware --- обновляем
+dev3.xen.virt --- packages state --- до крита
+dev4.xen.virt --- Firmware --- обновляем
+dev4.xen.virt --- Host address --- 38048412529 — Host address
+dev4.xen.virt --- check_ptr --- hide
+dev4.xen.virt --- packages state --- Обновляем
+dev6.xen.virt --- Firmware --- до крита
+dev6.xen.virt --- Host address --- 33499685351
+dev6.xen.virt --- Puppet environment --- This service has been scheduled for fixed downtime from 2022-01-21 14:15:00 to 2030-01-21 16:15:00.  Notifications for the service will not be sent out during that time period.
+dev6.xen.virt --- Puppet last run --- 32516522018
+dev6.xen.virt --- needrestart --- 36219994172 — unix - needrestart
+dev6.xen.virt --- packages state --- 33499685351
+dhcp2.infra --- Firmware --- обновляем
+dhcp2.infra --- packages state --- до крита
+dkimdb.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+dns2 --- Firmware --- Обновляем
+dns2 --- check_ptr --- hide
+dns2 --- packages state --- обновляет unix
+dns3 --- Firmware --- обновляем
+dns3 --- Host address --- 38048412529 — Host address
+dns3 --- check_ptr --- hide
+dns3 --- packages state --- обновляем
+dpm02.hosting.win --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+dpm02.hosting.win --- reboot Pending --- 37114676003
+ds700.hosting.win --- Host address --- 38048412529 — Host address
+eximx1.mail --- Firmware --- обновляем
+eximx1.mail --- check_ptr --- hide
+eximx1.mail --- packages state --- обновляем
+eximx10.mail --- Firmware --- обновляем
+eximx10.mail --- check_ptr --- hide
+eximx10.mail --- packages state --- обновляем
+eximx11.mail --- Firmware --- обновляем
+eximx11.mail --- packages state --- обновляем
+eximx12.mail --- Firmware --- обновляем
+eximx12.mail --- packages state --- обновляем
+eximx4.mail --- Firmware --- обновляем
+eximx4.mail --- packages state --- обновляем
+eximx6.corp --- Firmware --- обновляем
+eximx6.corp --- packages state --- Обновляем - The acknowledgement expires at: 2020-07-21 11:26:25.
+eximx7.corp --- packages state --- Обновляют unix
+eximx8.mail --- Firmware --- обновляем
+eximx8.mail --- packages state --- обновляем
+eximx9.mail --- Firmware --- обновляем
+eximx9.mail --- packages state --- обновляем
+expired1.dns --- needrestart --- 36219994172 — unix - needrestart
+expired1.dns --- packages state --- Обновляет unix
+expired2.dns --- needrestart --- 36219994172 — unix - needrestart
+expired2.dns --- packages state --- обновляем
+fe5.puppet.infra --- Host address --- 38048412529 — Host address
+fe5.puppet.infra --- packages state --- Обновляем
+fe6.mail --- Firmware --- обновляем
+fe6.mail --- Host address --- 38048412529 — Host address
+fe6.mail --- check_ptr --- hide
+fe6.mail --- packages state --- Обновляем
+fe7.mail --- Firmware --- обновляем
+fe7.mail --- packages state --- до крита
+fe8.mail --- Firmware --- обновляем
+fe8.mail --- packages state --- Обновляют unix
+gccdbe1.hs.shared --- Firmware --- обновляем
+gccdbe1.hs.shared --- packages state --- обновляем
+gen124.hs.shared --- Firmware --- обновляем
+gen124.hs.shared --- packages state --- обновляем
+gen125.hs.shared --- Disk usage --- до крита
+gen125.hs.shared --- Firmware --- обновляем
+gen125.hs.shared --- packages state --- обновляем
+gen126.hs.shared --- Disk usage --- до крита
+gen126.hs.shared --- Firmware --- обновляем
+gen126.hs.shared --- Swap --- До крита
+gen126.hs.shared --- needrestart --- needrestart
+gen126.hs.shared --- packages state --- обновляем
+gen127.hs.shared --- Firmware --- обновляем
+gen127.hs.shared --- packages state --- обновляем
+gen128.hs.shared --- Firmware --- обновляем
+gen128.hs.shared --- packages state --- обновляем
+gen129.hs.shared --- Firmware --- обновляем
+gen129.hs.shared --- oversize tables --- 35827517434
+gen129.hs.shared --- packages state --- обновляем
+gen131.hs.shared --- Firmware --- обновляем
+gen131.hs.shared --- packages state --- обновляем
+gen132.hs.shared --- Firmware --- обновляем
+gen132.hs.shared --- packages state --- обновляем
+gen133.hs.shared --- Firmware --- обновляем
+gen133.hs.shared --- packages state --- обновляем
+gen134.hs.shared --- Disk usage --- до крита
+gen134.hs.shared --- Firmware --- обновляем
+gen134.hs.shared --- packages state --- обновляем
+gen135.hs.shared --- Firmware --- обновляем
+gen135.hs.shared --- packages state --- обновляем
+gen136.hs.shared --- Firmware --- обновляем
+gen136.hs.shared --- packages state --- обновляем
+gen137.hs.shared --- Firmware --- обновляем
+gen137.hs.shared --- packages state --- обновляем
+gen138.hs.shared --- Firmware --- обновляем
+gen138.hs.shared --- packages state --- обновляем
+gen139.hs.shared --- Firmware --- обновляем
+gen139.hs.shared --- packages state --- обновляем
+gen140.hs.shared --- Disk usage --- До крита
+gen140.hs.shared --- Firmware --- обновляем
+gen140.hs.shared --- packages state --- обновляем
+gen141.hs.shared --- Disk usage --- до крита
+gen141.hs.shared --- Firmware --- обновляем
+gen141.hs.shared --- packages state --- обновляем
+gen143.hs.shared --- Firmware --- обновляем
+gen143.hs.shared --- packages state --- обновляем
+gen144.hs.shared --- Firmware --- обновляем
+gen144.hs.shared --- packages state --- обновляем
+gen145.hs.shared --- Firmware --- обновляем
+gen145.hs.shared --- packages state --- обновляем
+gen147.hs.shared --- Disk usage --- до крита
+gen147.hs.shared --- Firmware --- обновляем
+gen147.hs.shared --- packages state --- обновляем
+gen148.hs.shared --- Disk usage --- до крита
+gen148.hs.shared --- Firmware --- обновляем
+gen148.hs.shared --- packages state --- обновляем
+gen149.hs.shared --- Firmware --- обновляем
+gen149.hs.shared --- Swap --- wc
+gen149.hs.shared --- needrestart --- needrestart
+gen149.hs.shared --- packages state --- обновляем
+gen150.hs.shared --- Firmware --- обновляем
+gen150.hs.shared --- packages state --- обновляем
+gen151.hs.shared --- Firmware --- обновляем
+gen151.hs.shared --- packages state --- обновляем
+gen152.hs.shared --- Disk usage --- до крита
+gen152.hs.shared --- Firmware --- обновляем
+gen152.hs.shared --- packages state --- обновляем
+gen153.hs.shared --- Firmware --- обновляем
+gen153.hs.shared --- packages state --- обновляем
+gen154.hs.shared --- Firmware --- обновляем
+gen154.hs.shared --- packages state --- обновляем
+gen155.hs.shared --- Firmware --- до крита
+gen155.hs.shared --- packages state --- до крита
+gen156.hs.shared --- Firmware --- обновляем
+gen156.hs.shared --- packages state --- обновляем
+gen157.hs.shared --- Firmware --- обновляем
+gen157.hs.shared --- packages state --- обновляем
+gen158.hs.shared --- Firmware --- обновляем
+gen158.hs.shared --- packages state --- обновляем
+gen159.hs.shared --- Firmware --- обновляем
+gen159.hs.shared --- needrestart --- needrestart
+gen159.hs.shared --- packages state --- обновляем
+gen161.hs.shared --- Disk usage --- до крита
+gen161.hs.shared --- Firmware --- обновляем
+gen161.hs.shared --- packages state --- обновляем
+gen162.hs.shared --- Disk usage --- до крита
+gen162.hs.shared --- Firmware --- обновляем
+gen162.hs.shared --- packages state --- обновляем
+gen163.hs.shared --- Disk usage --- до крита
+gen163.hs.shared --- Firmware --- обновляем
+gen163.hs.shared --- packages state --- обновляем
+gen164.hs.shared --- Disk usage --- До крита
+gen164.hs.shared --- Firmware --- обновляем
+gen164.hs.shared --- packages state --- обновляем
+gen165.hs.shared --- Disk usage --- До крита
+gen165.hs.shared --- Firmware --- обновляем
+gen165.hs.shared --- packages state --- обновляем
+gen166.hs.shared --- Firmware --- обновляем
+gen166.hs.shared --- packages state --- обновляем
+gen167.hs.shared --- Firmware --- обновляем
+gen167.hs.shared --- packages state --- обновляем
+gen168.hs.shared --- Firmware --- обновляем
+gen168.hs.shared --- packages state --- обновляем
+gen170.hs.shared --- Firmware --- обновляем
+gen170.hs.shared --- packages state --- обновляем
+gen171.hs.shared --- Firmware --- обновляем
+gen171.hs.shared --- packages state --- обновляем
+gen173.hs.shared --- Firmware --- обновляем
+gen173.hs.shared --- packages state --- обновляем
+gen174.hs.shared --- Disk usage --- до крита
+gen174.hs.shared --- Firmware --- обновляем
+gen174.hs.shared --- Swap --- до крита
+gen174.hs.shared --- needrestart --- needrestart
+gen174.hs.shared --- packages state --- обновляем
+gen175.hs.shared --- Firmware --- обновляем
+gen175.hs.shared --- packages state --- обновляем
+gen176.hs.shared --- Disk usage --- до крита
+gen176.hs.shared --- Firmware --- обновляем
+gen176.hs.shared --- packages state --- обновляем
+gen177.hs.shared --- Firmware --- обновляем
+gen177.hs.shared --- packages state --- обновляем
+gen178.hs.shared --- Firmware --- обновляем
+gen178.hs.shared --- packages state --- обновляем
+gen179.hs.shared --- Firmware --- обновляем
+gen179.hs.shared --- packages state --- обновляем
+gen180.hs.shared --- Disk usage --- wc
+gen180.hs.shared --- Firmware --- обновляем
+gen180.hs.shared --- packages state --- обновляем
+gen181.hs.shared --- Firmware --- обновляем
+gen181.hs.shared --- packages state --- обновляем
+gen182.hs.shared --- Firmware --- обновляем
+gen182.hs.shared --- Swap --- До крита
+gen182.hs.shared --- packages state --- обновляем
+gen183.hs.shared --- Firmware --- обновляем
+gen183.hs.shared --- Swap --- До крита
+gen183.hs.shared --- needrestart --- needrestart
+gen183.hs.shared --- packages state --- обновляем
+gen184.hs.shared --- Firmware --- обновляем
+gen184.hs.shared --- packages state --- обновляем
+gen185.hs.shared --- Firmware --- обновляем
+gen185.hs.shared --- packages state --- обновляем
+gen187.hs.shared --- Disk usage --- до крита
+gen187.hs.shared --- Firmware --- обновляем
+gen187.hs.shared --- packages state --- обновляем
+gen188.hs.shared --- Disk usage --- до крита
+gen188.hs.shared --- Firmware --- обновляем
+gen188.hs.shared --- packages state --- обновляем
+gen189.hs.shared --- Firmware --- обновляем
+gen189.hs.shared --- packages state --- обновляем
+gen190.hs.shared --- Disk usage --- wc
+gen190.hs.shared --- Firmware --- обновляем
+gen190.hs.shared --- packages state --- обновляем
+gen192.hs.shared --- Firmware --- обновляем
+gen192.hs.shared --- packages state --- обновляем
+gen194.hs.shared --- Firmware --- обновляем
+gen194.hs.shared --- packages state --- обновляем
+gen196.hs.shared --- Firmware --- обновляем
+gen196.hs.shared --- packages state --- обновляем
+gen197.hs.shared --- CPU power --- Включаем в bios'е
+gen197.hs.shared --- Disk usage --- до крита
+gen197.hs.shared --- Firmware --- обновляем
+gen197.hs.shared --- packages state --- Обновляем
+gen198.hs.shared --- Firmware --- обновляем
+gen198.hs.shared --- memory errors --- delay
+gen198.hs.shared --- packages state --- обновляем
+gen199.hs.shared --- Disk usage --- delay
+gen199.hs.shared --- Firmware --- Обновляем
+gen199.hs.shared --- packages state --- обновляем
+gen200.hs.shared --- Disk usage --- до крита
+gen200.hs.shared --- Firmware --- обновляем
+gen200.hs.shared --- Swap --- до крита
+gen200.hs.shared --- needrestart --- needrestart
+gen200.hs.shared --- packages state --- обновляем
+gen202.hs.shared --- Firmware --- обновляем
+gen202.hs.shared --- packages state --- обновляем
+gen207.hs.shared --- Disk usage --- до крита
+gen207.hs.shared --- Firmware --- обновляем
+gen207.hs.shared --- packages state --- обновляем
+gen208.hs.shared --- Firmware --- обновляем
+gen208.hs.shared --- packages state --- обновляем
+gen209.hs.shared --- Firmware --- обновляем
+gen209.hs.shared --- packages state --- обновляем
+gen210.hs.shared --- Firmware --- обновляем
+gen210.hs.shared --- packages state --- обновляем
+gen211.hs.shared --- Firmware --- обновляем
+gen211.hs.shared --- packages state --- обновляем
+gen212.hs.shared --- Disk usage --- до крита
+gen212.hs.shared --- Firmware --- обновляем
+gen212.hs.shared --- packages state --- обновляем
+gen213.hs.shared --- Firmware --- обновляем
+gen213.hs.shared --- packages state --- обновляем
+gen215.hs.shared --- Firmware --- обновляем
+gen215.hs.shared --- packages state --- обновляем
+gen216.hs.shared --- Firmware --- обновляем
+gen216.hs.shared --- packages state --- обновляем
+gen217.hs.shared --- Firmware --- обновляем
+gen217.hs.shared --- packages state --- обновляем
+gen218.hs.shared --- Firmware --- обновляем
+gen218.hs.shared --- packages state --- обновляем
+gen219.hs.shared --- Disk usage --- до крита
+gen219.hs.shared --- Firmware --- обновляем
+gen219.hs.shared --- needrestart --- needrestart
+gen219.hs.shared --- packages state --- обновляем
+gen221.hs.shared --- Firmware --- обновляем
+gen221.hs.shared --- packages state --- обновляем
+gen222.hs.shared --- Disk usage --- delay
+gen222.hs.shared --- Firmware --- обновляем
+gen222.hs.shared --- packages state --- обновляем
+gen225.hs.shared --- Firmware --- обновляем
+gen225.hs.shared --- packages state --- обновляем
+gen300.hs.shared --- CPU power --- Включаем в bios'е
+gen300.hs.shared --- Firmware --- обновляем
+gen300.hs.shared --- packages state --- Обновления
+gen301.hs.shared --- CPU power --- Включаем в bios'е
+gen301.hs.shared --- packages state --- Обновляем
+gen302.hs.shared --- CPU power --- Включаем в bios'е
+gen302.hs.shared --- Disk usage --- до крита
+gen302.hs.shared --- needrestart --- needrestart
+gen302.hs.shared --- packages state --- Обновляем
+gen303.hs.shared --- Disk usage --- wc
+gen303.hs.shared --- Firmware --- обновляем
+gen303.hs.shared --- needrestart --- needrestart
+gen303.hs.shared --- packages state --- Обновляем
+gen304.hs.shared --- CPU power --- Включаем в bios'е
+gen304.hs.shared --- Firmware --- обновляем
+gen304.hs.shared --- packages state --- Обновления
+gen305.hs.shared --- Firmware --- обновляем
+gen305.hs.shared --- packages state --- обновляем
+gen306.hs.shared --- CPU power --- Включаем в bios'е
+gen306.hs.shared --- Disk usage --- до крита
+gen306.hs.shared --- packages state --- Обновления
+gen307.hs.shared --- Firmware --- обновляем
+gen307.hs.shared --- packages state --- Обновления
+gen308.hs.shared --- Firmware --- обновляем
+gen308.hs.shared --- packages state --- Обновления
+git.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+gitproxy.ext.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+hadb3.test.bill --- packages state --- 36341715084
+hadb5.bill --- needrestart --- need restart
+hadb5.bill --- packages state --- Обновляем
+hadb6.bill --- Kernel state --- обновляем
+hadb6.bill --- needrestart --- 36219994172
+hadb6.bill --- packages state --- Обновляем
+hexdpm01.hex --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvbackup08.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvbackup09.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvdc07.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvdc07.hv.vm --- reboot Pending --- 37114676003
+hvdc08.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvdc08.hv.vm --- reboot Pending --- 30816588847
+hvdev.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvdpm01.hv.vm --- Host address --- 35184567687
+hvdpm01.hv.vm --- reboot Pending --- wc
+hvdpm06.hv.vm --- Host address --- 35184567687
+hvkvm01.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvlib01.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvrepo01.hv.vm --- Host address --- до крита
+hvrepo02.hv.vm --- Host address --- до крита
+hvscvmm.hv.vm --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hvscvmm04.hv.vm --- Host address --- до крита
+hvtest15.test.hv.vm --- Host address --- 38048412529 — Host address
+hvtest16.test.hv.vm --- Host address --- 38048412529 — Host address
+hvtest16.test.hv.vm --- reboot Pending --- wc
+hvtrm.hv.vm --- Host address --- 30095971070 — hvtrm.hv.vm
+hvweb01.hv.vm --- reboot Pending --- 37114676003 — Windows reboot pending
+hyperv10.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv15.team --- Disk usage win --- до крита
+hyperv15.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv16.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv17.team --- 1C backup state --- 36309401982 — hyperv17.team; 1C backup state
+hyperv17.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv18.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv19.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv19.team --- reboot Pending --- до крита
+hyperv32.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv33.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv5.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv6.team --- Host address --- 36583117302 — hyperv6 - nrpe
+hyperv7.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv8.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+hyperv9.team --- Host address --- 38048412529 — Host address
+infra1.clamav.shared --- needrestart --- need restart
+infra1.clamav.shared --- packages state --- Обновляют Unix
+infra1.xen.virt --- Host address --- 38048412529 — Host address
+infra1.xen.virt --- check_ptr --- hide
+infra1.xen.virt --- packages state --- Обновляют Unix
+infra2.clamav.shared --- needrestart --- need restart
+infra2.clamav.shared --- packages state --- обновляем
+infra3.xen.virt --- Firmware --- обновляем
+infra3.xen.virt --- Host address --- 38048412529 — Host address
+infra3.xen.virt --- check_ptr --- hide
+infra3.xen.virt --- packages state --- Обновляем
+inst1.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+intranet --- Host address --- 38048412529 — Host address
+ipvs10.shared --- needrestart --- обновляем
+ipvs11.shared --- needrestart --- обновляем
+ipvs12.shared --- needrestart --- обновляем
+ipvs3.shared --- Kernel state --- Обновляют Unix
+ipvs3.shared --- Puppet last run --- до крита
+ipvs3.shared --- needrestart --- 36219994172 — unix - needrestart
+ipvs3.shared --- packages state --- Обновляют Unix
+ipvs4.shared --- needrestart --- обновляем
+ipvs6.shared --- Puppet last run --- 32537563909
+ipvs6.shared --- needrestart --- обновляем
+ipvs8.shared --- packages state --- обновляем
+ipvs9.shared --- packages state --- обновляем
+ivrstat.masterhost.ru --- Host address --- 38048412529 — Host address
+ivrstat2.corp --- Host address --- 38048412529 — Host address
+ivrstat2.corp --- check_ptr --- hide
+ivrstat2.corp --- packages state --- До крита
+kms.team --- Host address --- до крита
+kvm35.masterhost.ru --- Host address --- 38048412529
+ldap.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+ldap.int.masterhost.ru --- Host address --- 38048412529 — Host address
+ldap.kvm.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+ldap.shared.masterhost.ru --- Host address --- 38048412529 — Host address
+ldap01.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+ldap02.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+ldap03.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+ldap04.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+list1.mail --- Disk usage --- до крита
+list1.mail --- Firmware --- обновляем
+list1.mail --- packages state --- обновляем
+load.support.masterhost.ru --- Host address --- 38048412529 — Host address
+mail.corp.masterhost.ru --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+mail.corp.masterhost.ru --- Uptime --- 34943389818 — Пробник uptime
+mail.masterhost.ru --- Host address --- 38048412529 — Host address
+mail1.archive --- CPU power --- Включаем в bios'е
+mail1.archive --- Firmware --- обновляем
+mail1.archive --- Host address --- 38048412529 — Host address
+mail1.archive --- Kernel state --- обновляем
+mail1.archive --- check_ptr --- hide
+mail1.archive --- needrestart --- needrestart
+mail1.archive --- packages state --- Об
+mailbox2.team --- Host address --- host address - The acknowledgement expires at: 2020-07-20 17:49:46.
+mailbox5.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+mailbox6.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+master1.puppet --- CPU power --- перенастроить bios на hp
+master1.puppet --- Firmware --- обновляем
+master1.puppet --- Host address --- 38048412529 — Host address
+master1.puppet --- Kernel state --- Обновляют Unix
+master1.puppet --- check_ptr --- hide
+master1.puppet --- needrestart --- 36219994172 — unix - needrestart
+master1.puppet --- packages state --- Обновляем
+master3.puppet --- needrestart --- обновляем
+master3.puppet --- packages state --- Обновляет unix
+master4.ac.shared --- Firmware --- обновляем
+master4.ac.shared --- packages state --- обновляем
+master4.puppet --- needrestart --- 36219994172
+master4.puppet --- packages state --- обновляем
+master5.ac.shared --- Firmware --- обновляем
+master5.ac.shared --- packages state --- обновляем
+master5.puppet --- needrestart --- 36219994172
+master5.puppet --- packages state --- Обновляет unix
+master6.ac.shared --- Firmware --- обновляем
+master6.ac.shared --- packages state --- обновляем
+master6.puppet --- needrestart --- обновляем
+master6.puppet --- packages state --- Обновляет unix
+master7.puppet --- needrestart --- обновляем
+master7.puppet --- packages state --- обновляем
+mastername2.dns --- Firmware --- обновляем
+mastername2.dns --- check_ptr --- hide
+mastername2.dns --- packages state --- До крита
+mastername3.dns --- Firmware --- обновления
+mastername3.dns --- Host address --- 38048412529 — Host address
+mastername3.dns --- check_ptr --- hide
+mastername3.dns --- packages state --- обновляем
+memcache3.mail --- packages state --- обновляем
+memcache4.mail --- packages state --- До крита
+min15.pvc --- disk usage --- до крита
+min19.pvc --- disk usage --- до крита
+min26.pvc --- disk usage --- delay
+min7.pvc --- disk usage --- до крита
+monitoring.masterhost.ru --- Host address --- 38048412529 — Host address
+monitoring.operation.office --- Host address --- 38048412529 — Host address
+mx1.mail.corp --- Uptime --- 34943389818 — Пробник uptime
+mx2.mail.corp --- Uptime --- 34943389818 — Пробник uptime
+noc1.hq.infra --- Kernel state --- Обновляем
+noc1.hq.infra --- needrestart --- обновляем
+noc1.hq.infra --- packages state --- Обновляем
+noc2.hq.infra --- Kernel state --- Обновляют Unix
+noc2.hq.infra --- needrestart --- обновляем
+noc2.hq.infra --- packages state --- Обновляем
+node1.asterisk --- needrestart --- needrestart
+node1.asterisk --- packages state --- обновляем
+node1.bgp.injector --- CPU power --- Включаем в bios'е
+node1.bgp.injector --- Kernel state --- 30179853474 — add to monitoring node[1-2].bgp.injector
+node1.bgp.injector --- check_ptr --- 30179853474 — add to monitoring node[1-2].bgp.injector
+node1.bgp.injector --- needrestart --- 36219994172 — unix - needrestart
+node1.bgp.injector --- packages state --- до крита
+node1.check-dhcp.mon --- Kernel state --- обновления
+node1.check-dhcp.mon --- needrestart --- 36219994172 — unix - needrestart
+node1.check-dhcp.mon --- packages state --- Обновляем
+node1.cloud.nebula.backup --- needrestart --- need restart
+node1.db.ipkvm.dhcp.infra --- Kernel state --- обновляем
+node1.db.ipkvm.dhcp.infra --- needrestart --- обновляем
+node1.db.ipkvm.dhcp.infra --- packages state --- Обновляем
+node1.dbcluster --- CPU power --- перенастроить bios на hp
+node1.dbcluster --- Host address --- 38048412529 — Host address
+node1.dbcluster --- Kernel state --- обновляем
+node1.dbcluster --- Memory --- до крита
+node1.dbcluster --- check_ptr --- hide
+node1.dbcluster --- needrestart --- needrestart
+node1.dbcluster --- packages state --- обновляем
+node1.dev.kube --- needrestart --- 36219994172 — unix - needrestart
+node1.dev.kube --- packages state --- Обновляют unix
+node1.ftp.sorm --- Firmware --- обновляем
+node1.ftp.sorm --- Kernel state --- Обновляем
+node1.ftp.sorm --- needrestart --- 36219994172 unix - needrestart
+node1.ftp.sorm --- packages state --- Обновляем
+node1.gitlab.infra --- packages state --- Обновляют unix
+node1.grafana.infra --- needrestart --- need restart
+node1.gw.infra --- Kernel state --- обновляем
+node1.gw.infra --- needrestart --- 36219994172 — unix - needrestart
+node1.gw.infra --- packages state --- Обновляем
+node1.ipam.infra --- Kernel state --- Обновляем
+node1.ipam.infra --- needrestart --- need restart
+node1.ipam.infra --- packages state --- Обновляем
+node1.ipkvm.dhcp.infra --- Kernel state --- обновляем
+node1.ipkvm.dhcp.infra --- check_ptr --- 37505579183
+node1.ipkvm.dhcp.infra --- needrestart --- до крита
+node1.ipkvm.dhcp.infra --- packages state --- Обновляют Unix
+node1.kvm.cloud.nebula --- Host address --- 38048412529 — Host address
+node1.kvm.cloud.nebula --- check_ptr --- 38048412529 — Host address
+node1.kvm.cloud.nebula --- packages state --- обновляет unix
+node1.kvm.ost.nebula --- Firmware --- обновляем
+node1.kvm.ost.nebula --- Kernel state --- обновляем
+node1.kvm.ost.nebula --- Memory --- До крита
+node1.kvm.ost.nebula --- needrestart --- needrestart
+node1.kvm.ost.nebula --- packages state --- обновляем
+node1.mhost.eppapi --- Kernel state --- Обновляют Unix
+node1.mhost.eppapi --- needrestart --- 36219994172 — unix - needrestart
+node1.mhost.eppapi --- packages state --- обновляет unix
+node1.minio.ipam.infra --- Host address --- #38048412529 — Host address
+node1.minio.ipam.infra --- Kernel state --- обновляем
+node1.minio.ipam.infra --- needrestart --- обновляем
+node1.minio.ipam.infra --- packages state --- Обновляем
+node1.openvpn.corp --- Kernel state --- До крита
+node1.openvpn.corp --- needrestart --- 36219994172 — unix - needrestart
+node1.openvpn.corp --- packages state --- Обновляем
+node1.ost.worker.icinga.mon --- Kernel state --- обновляем
+node1.ost.worker.icinga.mon --- check_ptr --- 38048412529 — Host address
+node1.ost.worker.icinga.mon --- needrestart --- need restart
+node1.ost.worker.icinga.mon --- packages state --- обновляем
+node1.phpmyadmin.shared --- Host address --- 38048412529 — Host address
+node1.phpmyadmin.shared --- Kernel state --- Обновляют unix
+node1.phpmyadmin.shared --- Memory --- delay
+node1.phpmyadmin.shared --- needrestart --- 36219994172 — unix - needrestart
+node1.phpmyadmin.shared --- packages state --- Обновляет unix
+node1.test.dbcluster --- Postgres service --- 30389618662
+node1.test.dbcluster --- packages state --- 30389618662
+node1.test.ipam.infra --- Kernel state --- обновляем
+node1.test.ipam.infra --- needrestart --- обновляем
+node1.test.ipam.infra --- packages state --- Обновляем
+node1.test.kvm.cloud.nebula --- Exim paniclog --- 30389618662
+node1.test.kvm.cloud.nebula --- Firmware --- 30389618662
+node1.test.kvm.cloud.nebula --- Host address --- 30389618662
+node1.test.kvm.cloud.nebula --- Kernel state --- 30389618662
+node1.test.kvm.cloud.nebula --- Puppet last run --- wc
+node1.test.kvm.cloud.nebula --- check_ptr --- 30389618662
+node1.test.kvm.cloud.nebula --- needrestart --- needrestart
+node1.test.kvm.nebula --- Kernel state --- до крита
+node1.test.kvm.nebula --- needrestart --- обновляем
+node1.test.kvm.nebula --- packages state --- обновляем
+node1.test.mhost.eppapi --- Exim paniclog --- 36500496645
+node1.test.mhost.eppapi --- Host address --- 30389618662 — Unix test infrastructure services
+node1.test.mhost.eppapi --- Kernel state --- Обновляют Unix
+node1.test.mhost.eppapi --- packages state --- обновляет unix
+node1.test.minio.ipam.infra --- Kernel state --- Обновляет unix
+node1.test.minio.ipam.infra --- needrestart --- обновляем
+node1.test.minio.ipam.infra --- packages state --- Обновляют unix
+node1.test.mname.eppapi --- Host address --- 30389618662 — Unix test infrastructure services
+node1.test.mname.eppapi --- Kernel state --- Обновляют Unix
+node1.test.mname.eppapi --- needrestart --- 36107051766 — Unix test infrastructure services
+node1.test.mname.eppapi --- packages state --- Обновляют Unix
+node1.test.phpmyadmin.shared --- needrestart --- needrestart
+node1.test.phpmyadmin.shared --- packages state --- Обновляют unix
+node1.test.proxy --- Kernel state --- 30389618662
+node1.test.proxy --- bird bfd status --- 30389618662
+node1.test.proxy --- needrestart --- 36219994172 unix - needrestart
+node1.test.proxy --- packages state --- 30389618662
+node1.test.ssldb.infra --- Kernel state --- Обновляет unix
+node1.test.ssldb.infra --- needrestart --- needrestart
+node1.test.ssldb.infra --- packages state --- Обновляют unix
+node1.test.web.mail --- Kernel state --- 30389618662
+node1.test.web.mail --- needrestart --- обновляем
+node1.test.web.mail --- packages state --- 30389618662
+node1.test.webftp.shared --- Kernel state --- обновляет unix
+node1.test.webftp.shared --- needrestart --- обновляем
+node1.test.webftp.shared --- packages state --- Обновляем
+node1.web.mail --- Kernel state --- обновляет unix
+node1.web.mail --- needrestart --- 36219994172
+node1.web.mail --- packages state --- Обновляем
+node1.webftp.shared --- Kernel state --- обновляем
+node1.webftp.shared --- needrestart --- 36219994172 — unix - needrestart
+node1.webftp.shared --- packages state --- Обновляем
+node1.wiki.corp --- Kernel state --- обновляем
+node1.wiki.corp --- needrestart --- 36219994172 unix - needrestart
+node1.wiki.corp --- packages state --- Обновляем
+node1.wikijs.corp --- Kernel state --- обновляем
+node1.wikijs.corp --- packages state --- This service has been scheduled for fixed downtime from 2021-12-03 17:29:00 to 2022-12-23 19:29:00.  Notifications for the service will not be sent out during that time period.
+node1.win.lb --- Kernel state --- обновляем
+node1.win.lb --- needrestart --- обновляем
+node1.win.lb --- packages state --- Обновляем
+node10.kvm.nebula --- Kernel state --- Обновляем
+node10.kvm.nebula --- check_ptr --- 38048412529 — Host address
+node10.kvm.nebula --- needrestart --- обновляет unix
+node10.kvm.nebula --- packages state --- Обновляют Unix
+node11.kvm.nebula --- CPU power --- Включаем в bios'е
+node11.kvm.nebula --- Kernel state --- Обновляем
+node11.kvm.nebula --- needrestart --- до крита
+node11.kvm.nebula --- packages state --- Обновляем
+node2.asterisk --- needrestart --- 36219994172 — unix - needrestart
+node2.asterisk --- packages state --- Обновляем
+node2.bgp.injector --- CPU power --- Включаем в bios'е
+node2.bgp.injector --- Kernel state --- 30179853474 — add to monitoring node[1-2].bgp.injector
+node2.bgp.injector --- check_ptr --- 30179853474 — add to monitoring node[1-2].bgp.injector
+node2.bgp.injector --- packages state --- до крита
+node2.cloud.nebula.backup --- needrestart --- need restart
+node2.db.ipkvm.dhcp.infra --- Kernel state --- Обновляем
+node2.db.ipkvm.dhcp.infra --- needrestart --- обновляем
+node2.db.ipkvm.dhcp.infra --- packages state --- Обновляем
+node2.dbcluster --- CPU power --- перенастроить bios на hp
+node2.dbcluster --- Firmware --- обновляем
+node2.dbcluster --- Host address --- 38048412529 — Host address
+node2.dbcluster --- Kernel state --- обновляем
+node2.dbcluster --- Memory --- До крита
+node2.dbcluster --- check_ptr --- hide
+node2.dbcluster --- needrestart --- 36219994172 unix - needrestart
+node2.dbcluster --- packages state --- Обновляют unix
+node2.dev.kube --- Disk usage --- до крита
+node2.dev.kube --- needrestart --- 36219994172 — unix - needrestart
+node2.dev.kube --- packages state --- Обновляют unix
+node2.gw.infra --- Kernel state --- обновляем
+node2.gw.infra --- needrestart --- обновляем
+node2.gw.infra --- packages state --- Обновляем
+node2.ipam.infra --- Kernel state --- обновляет unix
+node2.ipam.infra --- needrestart --- 36219994172 — unix - needrestart
+node2.ipam.infra --- packages state --- Обновляем
+node2.kvm.nebula --- Firmware --- Обновляем
+node2.kvm.nebula --- Kernel state --- Обновляют unix
+node2.kvm.nebula --- packages state --- обновляем
+node2.kvm.ost.nebula --- CPU power --- Включаем в bios'е
+node2.kvm.ost.nebula --- Firmware --- обновляем
+node2.kvm.ost.nebula --- Kernel state --- обновляем
+node2.kvm.ost.nebula --- needrestart --- 36219994172
+node2.kvm.ost.nebula --- packages state --- Обновляют unix
+node2.mhost.eppapi --- Kernel state --- Обновляют Unix
+node2.mhost.eppapi --- needrestart --- 36219994172 — unix - needrestart
+node2.mhost.eppapi --- packages state --- Обновляют Unix
+node2.minio.ipam.infra --- Host address --- #38048412529 — Host address
+node2.minio.ipam.infra --- Kernel state --- обновляем
+node2.minio.ipam.infra --- needrestart --- needrestart
+node2.minio.ipam.infra --- packages state --- Обновляем
+node2.openvpn.corp --- Kernel state --- Обновления
+node2.openvpn.corp --- needrestart --- обновляет unix
+node2.openvpn.corp --- packages state --- Обновляем
+node2.ost.worker.icinga.mon --- Kernel state --- Обновляем
+node2.ost.worker.icinga.mon --- check_ptr --- 38048412529 — Host address
+node2.ost.worker.icinga.mon --- needrestart --- needrestart
+node2.ost.worker.icinga.mon --- packages state --- Обновляют Unix
+node2.phpmyadmin.shared --- Disk usage --- До крита
+node2.phpmyadmin.shared --- Kernel state --- обновляем
+node2.phpmyadmin.shared --- needrestart --- обновляем
+node2.phpmyadmin.shared --- packages state --- обновления
+node2.storage.vmetrics.infra --- needrestart --- need restart
+node2.test.dbcluster --- Postgres service --- 30389618662
+node2.test.dbcluster --- packages state --- 30389618662
+node2.test.kvm.cloud.nebula --- Exim paniclog --- 30389618662
+node2.test.kvm.cloud.nebula --- Firmware --- 30389618662
+node2.test.kvm.cloud.nebula --- Host address --- 30389618662
+node2.test.kvm.cloud.nebula --- Kernel state --- 30389618662
+node2.test.kvm.cloud.nebula --- VMs_segfaults --- This service has been scheduled for fixed downtime from 2022-02-18 18:35:00 to 2022-02-28 11:00:00.  Notifications for the service will not be sent out during that time period.
+node2.test.kvm.cloud.nebula --- check_ptr --- 30389618662
+node2.test.kvm.cloud.nebula --- ipmi sensor --- 30389618662
+node2.test.kvm.cloud.nebula --- needrestart --- обновляем
+node2.test.kvm.cloud.nebula --- packages state --- 30389618662
+node2.test.kvm.cloud.nebula --- systemd services --- 30389618662
+node2.test.kvm.nebula --- Kernel state --- обновляем
+node2.test.kvm.nebula --- needrestart --- обновляем
+node2.test.kvm.nebula --- packages state --- обновляем
+node2.test.minio.ipam.infra --- Disk usage --- wc
+node2.test.minio.ipam.infra --- Kernel state --- Обновляет unix
+node2.test.minio.ipam.infra --- needrestart --- needrestart
+node2.test.minio.ipam.infra --- packages state --- Обновляют unix
+node2.test.phpmyadmin.shared --- needrestart --- need restart
+node2.test.phpmyadmin.shared --- packages state --- Обновляют unix
+node2.test.proxy --- Kernel state --- 30389618662
+node2.test.proxy --- bird bfd status --- 30389618662
+node2.test.proxy --- needrestart --- 30389618662
+node2.test.proxy --- packages state --- 30389618662
+node2.test.ssldb.infra --- Kernel state --- Обновляет unix
+node2.test.ssldb.infra --- needrestart --- needrestart
+node2.test.ssldb.infra --- packages state --- Обновляют unix
+node2.test.web.mail --- Kernel state --- 30389618662
+node2.test.web.mail --- needrestart --- обновляем
+node2.test.web.mail --- packages state --- 30389618662
+node2.test.webftp.shared --- Kernel state --- Обновляет unix
+node2.test.webftp.shared --- needrestart --- needrestart
+node2.test.webftp.shared --- packages state --- Обновляют unix
+node2.web.mail --- Kernel state --- обновляем
+node2.web.mail --- needrestart --- 36219994172
+node2.web.mail --- packages state --- Обновляем
+node2.webftp.shared --- Kernel state --- Обновляем
+node2.webftp.shared --- needrestart --- обновляет unix
+node2.webftp.shared --- packages state --- Обновляем
+node2.wiki.corp --- Kernel state --- обновляем
+node2.wiki.corp --- needrestart --- 36219994172 unix - needrestart
+node2.wiki.corp --- packages state --- обновляем
+node2.win.lb --- Kernel state --- обновляем
+node2.win.lb --- needrestart --- needrestart
+node2.win.lb --- packages state --- Обновляем
+node3.cloud.nebula.backup --- Firmware --- обновляем
+node3.cloud.nebula.backup --- needrestart --- need restart
+node3.db.ipkvm.dhcp.infra --- Kernel state --- Обновляют Unix
+node3.db.ipkvm.dhcp.infra --- needrestart --- обновляем
+node3.db.ipkvm.dhcp.infra --- packages state --- Обновляем
+node3.dbcluster --- Host address --- 38048412529 — Host address
+node3.dbcluster --- Memory --- До крита
+node3.dbcluster --- check_ptr --- hide
+node3.dbcluster --- packages state --- до крита
+node3.dev.kube --- needrestart --- 31008411753
+node3.dev.kube --- packages state --- обновляем
+node3.gluster --- CPU power --- перенастроить bios на hp
+node3.gluster --- Disk usage --- до крита
+node3.gluster --- needrestart --- 36219994172 unix - needrestart
+node3.gluster --- packages state --- Обновляют unix
+node3.ipam.infra --- Kernel state --- обновляет unix
+node3.ipam.infra --- needrestart --- need restart
+node3.ipam.infra --- packages state --- Обновляем
+node3.kvm.cloud.nebula --- Disk usage --- 37797399281
+node3.kvm.cloud.nebula --- Kernel state --- обновляет unix
+node3.kvm.cloud.nebula --- packages state --- Обновляем
+node3.kvm.nebula --- CPU power --- перенастроить bios на hp
+node3.kvm.nebula --- Firmware --- Обновляем
+node3.kvm.nebula --- Kernel state --- обновляем
+node3.kvm.nebula --- Memory --- delay
+node3.kvm.nebula --- needrestart --- 36219994172 unix - needrestart
+node3.kvm.nebula --- packages state --- Обновляем
+node3.kvm.ost.nebula --- CPU power --- Включаем в bios'е
+node3.kvm.ost.nebula --- Firmware --- обновляем
+node3.kvm.ost.nebula --- Kernel state --- обновляем
+node3.kvm.ost.nebula --- Memory --- до крита
+node3.kvm.ost.nebula --- needrestart --- 36219994172
+node3.kvm.ost.nebula --- packages state --- Обновляют unix
+node3.minio.ipam.infra --- Host address --- #38048412529 — Host address
+node3.minio.ipam.infra --- Kernel state --- Обновляем
+node3.minio.ipam.infra --- needrestart --- 36219994172 — unix - needrestart
+node3.minio.ipam.infra --- packages state --- Обновляем
+node3.ost.worker.icinga.mon --- Kernel state --- обновляет unix
+node3.ost.worker.icinga.mon --- check_ptr --- 38048412529 — Host address
+node3.ost.worker.icinga.mon --- needrestart --- 36219994172 — unix - needrestart
+node3.ost.worker.icinga.mon --- packages state --- обновляем
+node3.phpmyadmin.shared --- Disk usage --- до крита
+node3.phpmyadmin.shared --- needrestart --- до крита
+node3.phpmyadmin.shared --- packages state --- до крита
+node3.proxy --- needrestart --- needrestart
+node3.proxy --- packages state --- Обновляем
+node3.test.dbcluster --- Postgres service --- 30389618662
+node3.test.dbcluster --- packages state --- 30389618662
+node3.test.kvm.nebula --- needrestart --- need restart
+node3.test.kvm.nebula --- packages state --- Обновляем
+node3.test.minio.ipam.infra --- Kernel state --- Обновляем
+node3.test.minio.ipam.infra --- needrestart --- обновляем
+node3.test.minio.ipam.infra --- packages state --- Обновляем
+node3.test.phpmyadmin.shared --- needrestart --- need restart
+node3.test.phpmyadmin.shared --- packages state --- Обновляют unix
+node3.web.mail --- Kernel state --- Обновляем
+node3.web.mail --- needrestart --- 36219994172
+node3.web.mail --- packages state --- Обновляем
+node4.cloud.nebula.backup --- Firmware --- обновляем
+node4.cloud.nebula.backup --- needrestart --- needrestart
+node4.gluster --- Disk usage --- до крита
+node4.gluster --- Firmware --- Обновляем
+node4.gluster --- needrestart --- до крита
+node4.gluster --- packages state --- обновляем
+node4.kvm.nebula --- Firmware --- обновляем
+node4.kvm.nebula --- needrestart --- 36219994172
+node4.kvm.nebula --- packages state --- Обновляем
+node4.kvm.ost.nebula --- CPU power --- Включаем в bios'е
+node4.kvm.ost.nebula --- Firmware --- обновляем
+node4.kvm.ost.nebula --- Kernel state --- обновляем
+node4.kvm.ost.nebula --- needrestart --- 36219994172
+node4.kvm.ost.nebula --- packages state --- Обновляем
+node4.minio.ipam.infra --- Host address --- #38048412529 — Host address
+node4.minio.ipam.infra --- Kernel state --- Обновляем
+node4.minio.ipam.infra --- needrestart --- обновляем
+node4.minio.ipam.infra --- packages state --- Обновляем
+node4.ost.worker.icinga.mon --- Kernel state --- До крита
+node4.ost.worker.icinga.mon --- check_ptr --- 38048412529 — Host address
+node4.ost.worker.icinga.mon --- needrestart --- 36219994172 — unix - needrestart
+node4.ost.worker.icinga.mon --- packages state --- обновляем
+node4.proxy --- needrestart --- need restart
+node4.proxy --- packages state --- Обновляют unix
+node4.q.relay.shared --- Host address --- до крита
+node4.q.relay.shared --- packages state --- До крита
+node4.test.kvm.nebula --- Kernel state --- Обновляют unix
+node4.test.kvm.nebula --- needrestart --- обновляем
+node4.test.kvm.nebula --- packages state --- Обновляем
+node4.web.mail --- Kernel state --- Обновляем
+node4.web.mail --- needrestart --- 36219994172
+node4.web.mail --- packages state --- Обновляем
+node5.kvm.nebula --- Kernel state --- обновляем
+node5.kvm.nebula --- needrestart --- 36219994172 unix - needrestart
+node5.kvm.nebula --- packages state --- Обновляют unix
+node5.kvm.ost.nebula --- Firmware --- обновляем
+node5.kvm.ost.nebula --- Kernel state --- обновляем
+node5.kvm.ost.nebula --- Memory --- до крита
+node5.kvm.ost.nebula --- needrestart --- 36219994172
+node5.kvm.ost.nebula --- packages state --- Обновляют unix
+node5.ost.worker.icinga.mon --- Kernel state --- обновляет unix
+node5.ost.worker.icinga.mon --- check_ptr --- check_git 31271905156
+node5.ost.worker.icinga.mon --- needrestart --- 36219994172 — unix - needrestart
+node5.ost.worker.icinga.mon --- packages state --- обновляем
+node5.test.kvm.nebula --- Kernel state --- обновляем
+node5.test.kvm.nebula --- LOAD --- wc
+node5.test.kvm.nebula --- needrestart --- обновляем
+node5.test.kvm.nebula --- packages state --- обновляем
+node6.kvm.nebula --- CPU power --- перенастроить bios на hp
+node6.kvm.nebula --- Disk usage --- До крита
+node6.kvm.nebula --- Kernel state --- Обновляют unix
+node6.kvm.nebula --- packages state --- Обновляем
+node6.kvm.ost.nebula --- Firmware --- Обновляем
+node6.kvm.ost.nebula --- Kernel state --- обновляем
+node6.kvm.ost.nebula --- needrestart --- 36219994172 unix - needrestart
+node6.kvm.ost.nebula --- packages state --- Обновляем
+node6.ost.worker.icinga.mon --- check_ptr --- hide
+node6.ost.worker.icinga.mon --- needrestart --- needrestart
+node6.ost.worker.icinga.mon --- packages state --- Обновляют Unix
+node6.test.kvm.nebula --- Kernel state --- обновляем
+node6.test.kvm.nebula --- needrestart --- обновляем
+node6.test.kvm.nebula --- packages state --- Обновляют unix
+node7.kvm.nebula --- Firmware --- обновляем
+node7.kvm.nebula --- Kernel state --- обновляем
+node7.kvm.nebula --- Memory --- до крита
+node7.kvm.nebula --- needrestart --- 36219994172
+node7.kvm.nebula --- packages state --- Обновляют unix
+node7.kvm.ost.nebula --- Firmware --- Обновляем
+node7.kvm.ost.nebula --- Kernel state --- обновляем
+node7.kvm.ost.nebula --- ipmi sensor --- 37943208630
+node7.kvm.ost.nebula --- needrestart --- 36219994172 unix - needrestart
+node7.kvm.ost.nebula --- packages state --- Обновляем
+node7.ost.worker.icinga.mon --- Kernel state --- обновляем
+node7.ost.worker.icinga.mon --- check_ptr --- hide
+node7.ost.worker.icinga.mon --- needrestart --- need restart
+node7.ost.worker.icinga.mon --- packages state --- Обновляют Unix
+node8.kvm.nebula --- Firmware --- обновляем
+node8.kvm.nebula --- Kernel state --- обновляем
+node8.kvm.nebula --- Memory --- до крита
+node8.kvm.nebula --- needrestart --- 36219994172
+node8.kvm.nebula --- packages state --- Обновляют unix
+node8.kvm.ost.nebula --- Firmware --- обновляем
+node8.kvm.ost.nebula --- Kernel state --- обновляем
+node8.kvm.ost.nebula --- Memory --- До крита
+node8.kvm.ost.nebula --- needrestart --- need restart
+node8.kvm.ost.nebula --- packages state --- Обновляем
+ns.ipkvm.masterhost.ru --- Host address --- до крита
+ns3.masterhost.ru --- Host address --- host
+ns4.masterhost.ru --- Host address --- host address
+ns5.masterhost.ru --- Host address --- до крита
+ntp3.infra --- packages state --- обновляем
+ntp4.infra --- packages state --- До крита
+otrs.masterhost.ru --- Host address --- до крита
+patch.mastername.ru --- Host address --- до крита
+portal.infra --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+portal02.test.hv.vm --- Host address --- 38048412529 — Host address
+power1.dev.dns --- needrestart --- 33589851970
+power1.dev.dns --- packages state --- Обновляют unix
+power2.dns --- Firmware --- обновляем
+power2.dns --- check_ptr --- hide
+power2.dns --- packages state --- до крита
+power3.dns --- Firmware --- обновляем
+power3.dns --- check_ptr --- hide
+power3.dns --- packages state --- до крита
+power5.dns --- Firmware --- обновляем
+power5.dns --- Host address --- 38048412529 — Host address
+power5.dns --- check_ptr --- hide
+power5.dns --- packages state --- до крита
+power6.dns --- Firmware --- обновляем
+power6.dns --- Host address --- 38048412529 — Host address
+power6.dns --- check_ptr --- hide
+power6.dns --- packages state --- обновляем
+pro11.hs.shared --- Host address --- 38048412529 — Host address
+pro23.hs.shared --- Disk usage --- delay
+pro23.hs.shared --- Firmware --- обновляем
+pro23.hs.shared --- packages state --- обновляем
+pro25.hs.shared --- Disk usage --- wc
+pro25.hs.shared --- Firmware --- обновляем
+pro25.hs.shared --- packages state --- обновляем
+pro26.hs.shared --- Firmware --- обновляем
+pro26.hs.shared --- needrestart --- needrestart
+pro26.hs.shared --- packages state --- обновляем
+pro27.hs.shared --- Disk usage --- До крита
+pro27.hs.shared --- Firmware --- обновляем
+pro27.hs.shared --- packages state --- обновляем
+pro31.hs.shared --- Firmware --- обновляем
+pro31.hs.shared --- packages state --- обновляем
+pro32.hs.shared --- Disk usage --- wc
+pro32.hs.shared --- Firmware --- обновляем
+pro32.hs.shared --- needrestart --- needrestart
+pro32.hs.shared --- oversize tables --- 37094515797
+pro32.hs.shared --- packages state --- обновляем
+pro34.hs.shared --- Firmware --- обновляем
+pro34.hs.shared --- packages state --- обновляем
+pro35.hs.shared --- Firmware --- обновляем
+pro35.hs.shared --- packages state --- обновляем
+pro40.hs.shared --- Firmware --- обновляем
+pro40.hs.shared --- packages state --- обновляем
+pro41.hs.shared --- Firmware --- обновляем
+pro41.hs.shared --- packages state --- обновляем
+pro42.hs.shared --- Firmware --- обновляем
+pro42.hs.shared --- packages state --- обновляем
+pro43.hs.shared --- Firmware --- обновляем
+pro43.hs.shared --- packages state --- обновляем
+pro44.hs.shared --- Firmware --- обновляем
+pro44.hs.shared --- packages state --- обновляем
+pro45.hs.shared --- Disk usage --- до крита
+pro45.hs.shared --- Firmware --- обновляем
+pro45.hs.shared --- packages state --- обновляем
+pro46.hs.shared --- CPU power --- Включаем в bios'е
+pro46.hs.shared --- Firmware --- обновляем
+pro46.hs.shared --- packages state --- Обновляем
+pro47.hs.shared --- Firmware --- обновляем
+pro47.hs.shared --- needrestart --- needrestart
+pro47.hs.shared --- packages state --- обновляем
+pro48.hs.shared --- Firmware --- обновляем
+pro48.hs.shared --- packages state --- обновляем
+pro49.hs.shared --- Firmware --- обновляем
+pro49.hs.shared --- packages state --- обновляем
+pro52.hs.shared --- CPU power --- Включаем в bios'е
+pro52.hs.shared --- Disk usage --- delay
+pro52.hs.shared --- Firmware --- обновляем
+pro52.hs.shared --- needrestart --- need restart
+pro52.hs.shared --- packages state --- Обновления
+pro60.hs.shared --- CPU power --- Включаем в bios'е
+pro60.hs.shared --- Firmware --- обновляем
+pro60.hs.shared --- packages state --- Обновляем
+pro64.hs.shared --- Firmware --- обновляем
+pro64.hs.shared --- packages state --- обновляем
+pro67.hs.shared --- CPU power --- Включаем в bios'е
+pro67.hs.shared --- Firmware --- обновляем
+pro67.hs.shared --- packages state --- Обновляем
+pro68.hs.shared --- CPU power --- Включаем в bios'е
+pro68.hs.shared --- Firmware --- обновляем
+pro68.hs.shared --- packages state --- Обновляем
+proxy1.whois --- Kernel state --- 37868040136 — Service Disk usage On Host dev1.proxy.whois; Service Etherne
+proxy1.whois --- needrestart --- need restart
+proxy1.whois --- packages state --- обновляем
+pswa01.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+public.cp.test.ofd.masterhost.ru --- Host address --- #38048412529 — Host address
+puppet.infra --- Host address --- 38048412529 — Host address
+puppet.masterhost.ru --- Puppet module updates --- 38957276358 — puppet.masterhost.ru Puppet module updates
+puppet.masterhost.ru --- Puppet outdated environment --- 37279582710
+puppet.masterhost.ru --- Puppet outdated environment OEMS hosts --- 39300216650
+puppet.masterhost.ru --- Puppet outdated nodes --- 30318099286
+rdap1.bill --- Kernel state --- обновляем
+rdap1.bill --- needrestart --- 36219994172 — unix - needrestart
+rdap1.bill --- packages state --- обновляем
+red1.hs.shared --- CPU power --- Включаем в bios'е
+red1.hs.shared --- Disk usage --- wc
+red1.hs.shared --- packages state --- до крита
+red10.hs.shared --- packages state --- Обновляем
+red11.hs.shared --- CPU power --- Включаем в bios'е
+red11.hs.shared --- needrestart --- needrestart
+red11.hs.shared --- packages state --- Обновляем
+red12.hs.shared --- Firmware --- обновляем
+red12.hs.shared --- needrestart --- обновляем
+red12.hs.shared --- packages state --- Обновляем
+red13.hs.shared --- Disk usage --- delay
+red13.hs.shared --- Firmware --- обновляем
+red13.hs.shared --- needrestart --- обновляем
+red13.hs.shared --- packages state --- Обновляем
+red14.hs.shared --- CPU power --- Включаем в bios'е
+red14.hs.shared --- Disk usage --- до крита
+red14.hs.shared --- Firmware --- обновляем
+red14.hs.shared --- needrestart --- needrestart
+red14.hs.shared --- packages state --- Обновления
+red15.hs.shared --- CPU power --- Включаем в bios'е
+red15.hs.shared --- Kernel state --- до крита
+red15.hs.shared --- packages state --- Обновляем
+red16.hs.shared --- CPU power --- Включаем в bios'е
+red16.hs.shared --- needrestart --- needrestart
+red16.hs.shared --- packages state --- Обновляем
+red17.hs.shared --- Disk usage --- до крита
+red17.hs.shared --- needrestart --- Обновляем
+red17.hs.shared --- packages state --- обновляем
+red18.hs.shared --- CPU power --- Включаем в bios'е
+red18.hs.shared --- Disk usage --- до крита
+red18.hs.shared --- Kernel state --- тут ок
+red18.hs.shared --- ipmi sensor --- wc
+red18.hs.shared --- needrestart --- needrestart
+red18.hs.shared --- packages state --- Обновления
+red19.hs.shared --- CPU power --- Включаем в bios'е
+red19.hs.shared --- Disk usage --- до крита
+red19.hs.shared --- Kernel state --- обновляем
+red19.hs.shared --- needrestart --- needrestart
+red19.hs.shared --- packages state --- Обновления
+red2.hs.shared --- CPU power --- Включаем в bios'е
+red2.hs.shared --- needrestart --- needrestart
+red2.hs.shared --- packages state --- Обновляем
+red20.hs.shared --- CPU power --- включаем в биосе
+red20.hs.shared --- Kernel state --- обновляем
+red20.hs.shared --- packages state --- Обновляем
+red3.hs.shared --- CPU power --- Включаем в bios'е
+red3.hs.shared --- Firmware --- обновляем
+red3.hs.shared --- needrestart --- needrestart
+red3.hs.shared --- packages state --- Обновляем
+red4.hs.shared --- CPU power --- Включаем в bios'е
+red4.hs.shared --- Disk usage --- до крита
+red4.hs.shared --- Memory --- wc
+red4.hs.shared --- needrestart --- needrestart
+red4.hs.shared --- packages state --- Обновления
+red5.hs.shared --- CPU power --- Включаем в bios'е
+red5.hs.shared --- Disk usage --- до крита
+red5.hs.shared --- Firmware --- обновляем
+red5.hs.shared --- needrestart --- needrestart
+red5.hs.shared --- packages state --- Обновляем
+red6.hs.shared --- packages state --- обновляем
+red7.hs.shared --- Disk usage --- до крита
+red7.hs.shared --- packages state --- Обновляем
+red8.hs.shared --- CPU power --- Включаем в bios'е
+red8.hs.shared --- needrestart --- needrestart
+red8.hs.shared --- packages state --- Обновляем
+red9.hs.shared --- CPU power --- Включаем в bios'е
+red9.hs.shared --- needrestart --- needrestart
+red9.hs.shared --- packages state --- до крита
+redmine1.corp --- Kernel state --- обновляем
+redmine1.corp --- Memory --- wc
+redmine1.corp --- needrestart --- 36219994172 — unix - needrestart
+redmine1.corp --- packages state --- обновляем
+redmine1.dev.corp --- needrestart --- needrestart
+redmine1.dev.corp --- packages state --- обновляем
+redmine2.corp --- Kernel state --- обновляем
+redmine2.corp --- needrestart --- 36219994172 — unix - needrestart
+redmine2.corp --- packages state --- Обновляют unix
+redmine2.dev.corp --- needrestart --- needrestart
+redmine2.dev.corp --- packages state --- обновляем
+registry.git.infra.masterhost.ru --- Host address --- 38048412529 — Host address
+registry.git.test.masterhost.ru --- Host address --- 38048412529 — Host address
+relay2.infra --- Firmware --- обновляем
+relay2.infra --- packages state --- обновляем
+relay3.infra --- Firmware --- обновляем
+relay3.infra --- packages state --- до крита
+relay3.shared --- Firmware --- до крита
+relay3.shared --- packages state --- обновляем
+relay4.mail --- Firmware --- обновляем
+relay4.mail --- packages state --- обновляем
+relay5.mail --- Firmware --- обновляем
+relay5.mail --- packages state --- обновляем
+relay5.shared --- Firmware --- обновляем
+relay5.shared --- packages state --- до крита
+relay6.mail --- Firmware --- обновляем
+relay6.mail --- packages state --- обновляем
+relay6.shared --- Firmware --- Обновляем
+relay6.shared --- packages state --- до крита
+repo.deb.shared.masterhost.ru --- Host address --- 38048412529 — Host address
+repo.hv.masterhost.ru --- Host address --- 38048412529 — Host address
+repo1.virt --- check_ptr --- hide
+repo1.virt --- packages state --- до крита
+reseller-api-test --- Host address --- #33239096001 — Пробники *bill
+rocketchat1.corp --- needrestart --- до крита
+rocketchat1.corp --- packages state --- Обновляет unix
+rocketchat1.test.corp --- needrestart --- обновляем
+rocketchat1.test.corp --- packages state --- Обновляют unix
+rocketchat2.corp --- Host address --- host address
+rocketchat2.corp --- needrestart --- 36219994172 — unix - needrestart
+rocketchat2.corp --- packages state --- обновляем
+rocketchat2.test.corp --- needrestart --- needrestart
+rocketchat2.test.corp --- packages state --- обновляем
+rocketchat3.corp --- needrestart --- до крита
+rocketchat3.corp --- packages state --- обновления
+rpc.otrs.masterhost.ru --- Host address --- 38048412529 — Host address
+rpc2.dev.otrs.masterhost.ru --- Host address --- до крита
+sale-api-test --- Host address --- #33239096001 — Пробники *bill
+scm1.puppet --- needrestart --- до крита
+scm1.puppet --- packages state --- Обновляем
+scm1.test.puppet --- Disk usage --- до крита
+scm1.test.puppet --- needrestart --- need restart
+scm1.test.puppet --- packages state --- обновляем
+scm2.hs.shared --- packages state --- обновляем
+scm2.puppet --- needrestart --- 36219994172 — unix - needrestart
+scm2.puppet --- packages state --- Обновляем
+scm2.test.puppet --- Disk usage --- 30389618662
+scm2.test.puppet --- needrestart --- needrestart
+scm2.test.puppet --- packages state --- обновляем
+scvmm01.team --- Host address --- 38048412529 — Host address
+sdbe11.hs.shared --- Firmware --- обновляем
+sdbe11.hs.shared --- packages state --- обновляем
+sdbe438.hs.shared --- Host address --- 38048412529 — Host address
+sdbe8.hs.shared --- Firmware --- обновляем
+sdbe8.hs.shared --- Swap --- До крита
+sdbe8.hs.shared --- packages state --- обновляем
+sdbe9.hs.shared --- Firmware --- Обновляем
+sdbe9.hs.shared --- Swap --- до крита
+sdbe9.hs.shared --- packages state --- обновляем
+sgen10.hs.shared --- Firmware --- обновления
+sgen10.hs.shared --- packages state --- Обновляем
+sgen7.hs.shared --- Firmware --- обновляем
+sgen7.hs.shared --- packages state --- обновляем
+sgen8.hs.shared --- Firmware --- обновляем
+sgen8.hs.shared --- Swap --- hide
+sgen8.hs.shared --- needrestart --- needrestart
+sgen8.hs.shared --- packages state --- обновляем
+shared1.xen.virt --- Disk usage --- wc
+shared1.xen.virt --- Firmware --- Обновляем
+shared1.xen.virt --- packages state --- обновляем
+shared2.xen.virt --- Firmware --- Обновляем
+shared2.xen.virt --- packages state --- обновляем
+shared3.xen.virt --- Firmware --- обновляем
+shared3.xen.virt --- packages state --- обновляем
+shared4.xen.virt --- Firmware --- обновляем
+shared4.xen.virt --- packages state --- обновляем
+shared5.xen.virt --- Disk usage --- до крита
+shared5.xen.virt --- Firmware --- обновляем
+shared5.xen.virt --- packages state --- обновляем
+shared7.xen.virt --- Firmware --- Обновляем
+shared7.xen.virt --- packages state --- обновляем
+shared8.xen.virt --- Firmware --- обновляем
+shared8.xen.virt --- packages state --- обновляем
+sl15.ac.shared --- packages state --- обновляет unix
+sl16.ac.shared --- Firmware --- обновляем
+sl16.ac.shared --- packages state --- до крита
+sl17.ac.shared --- Firmware --- обновляем
+sl17.ac.shared --- packages state --- до крита
+sl18.ac.shared --- Firmware --- обновляем
+sl18.ac.shared --- packages state --- обновления
+sl19.ac.shared --- Firmware --- обновляем
+sl19.ac.shared --- packages state --- обновления
+sl20.ac.shared --- Firmware --- обновляем
+sl20.ac.shared --- packages state --- обновления
+sl21.ac.shared --- Firmware --- обновляем
+sl21.ac.shared --- packages state --- обновления
+sl22.ac.shared --- Firmware --- обновляем
+sl22.ac.shared --- packages state --- обновления
+sl23.ac.shared --- Firmware --- обновляем
+sl23.ac.shared --- packages state --- до крита
+sl24.ac.shared --- packages state --- Обновляем
+smtp.masterhost.ru --- SMTP --- 35550087986 — SMTP-трафик с ams.monitoring.ext
+source.svn.masterhost.ru --- Host address --- 38048412529 — Host address
+spro2.hs.shared --- Firmware --- обновляем
+spro2.hs.shared --- packages state --- обновляем
+ssl2.infra --- packages state --- Обновляем
+sslrep.test.bill.masterhost.ru --- Host address --- #33239096001 — Пробники *bill
+sslrep2.bill --- Kernel state --- Обновляют unix
+sslrep2.bill --- needrestart --- need restart
+sslrep2.bill --- packages state --- обновляем
+sslrep2.test.bill --- Kernel state --- Обновляем
+sslrep2.test.bill --- needrestart --- 36219994172 — unix - needrestart
+sslrep2.test.bill --- packages state --- Обновляем
+sso100.hs.shared --- Firmware --- обновляем
+sso100.hs.shared --- packages state --- обновляем
+sso108.hs.shared --- Firmware --- обновляем
+sso108.hs.shared --- packages state --- обновляем
+sso110.hs.shared --- CPU power --- Включаем в bios'е
+sso110.hs.shared --- Firmware --- обновляем
+sso110.hs.shared --- packages state --- Обновляем
+sso121.hs.shared --- Firmware --- обновляем
+sso121.hs.shared --- Kernel state --- обновляем
+sso121.hs.shared --- needrestart --- обновляем
+sso121.hs.shared --- packages state --- Обновляем
+sso129.hs.shared --- CPU power --- Включаем в bios'е
+sso129.hs.shared --- Firmware --- обновляем
+sso129.hs.shared --- packages state --- Обновления
+sso131.hs.shared --- Firmware --- обновляем
+sso131.hs.shared --- needrestart --- needrestart
+sso131.hs.shared --- packages state --- Обновляем
+sso136.hs.shared --- CPU power --- Включаем в bios'е
+sso136.hs.shared --- Firmware --- обновляем
+sso136.hs.shared --- needrestart --- needrestart
+sso136.hs.shared --- packages state --- Обновления
+sso139.hs.shared --- CPU power --- Включаем в bios'е
+sso139.hs.shared --- Firmware --- обновляем
+sso139.hs.shared --- packages state --- Обновляем
+sso142.hs.shared --- CPU power --- Включаем в bios'е
+sso142.hs.shared --- Firmware --- обновляем
+sso142.hs.shared --- needrestart --- обновляем
+sso142.hs.shared --- packages state --- Обновления
+sso145.hs.shared --- CPU power --- Включаем в bios'е
+sso145.hs.shared --- Firmware --- обновляем
+sso145.hs.shared --- Memory --- wc
+sso145.hs.shared --- needrestart --- need restart
+sso145.hs.shared --- packages state --- Обновляем
+sso149.hs.shared --- Firmware --- обновляем
+sso149.hs.shared --- Kernel state --- Обновляем
+sso149.hs.shared --- Swap --- До крита
+sso149.hs.shared --- needrestart --- обновляем
+sso149.hs.shared --- packages state --- Обновляем
+sso200.hs.shared --- CPU power --- Включаем в bios'е
+sso200.hs.shared --- Firmware --- обновляем
+sso200.hs.shared --- needrestart --- needrestart
+sso200.hs.shared --- packages state --- обновляем
+sso201.hs.shared --- CPU power --- Включаем в bios'е
+sso201.hs.shared --- Firmware --- обновляем
+sso201.hs.shared --- needrestart --- обновляем
+sso201.hs.shared --- packages state --- обновляем
+sso202.hs.shared --- CPU power --- Включаем в bios'е
+sso202.hs.shared --- Firmware --- обновляем
+sso202.hs.shared --- needrestart --- обновляем
+sso202.hs.shared --- packages state --- обновляем
+sso203.hs.shared --- CPU power --- Включаем в bios'е
+sso203.hs.shared --- Kernel state --- здесь все ок
+sso203.hs.shared --- packages state --- Обновляем
+sso204.hs.shared --- CPU power --- Включаем в bios'е
+sso204.hs.shared --- Kernel state --- здесь все ок
+sso204.hs.shared --- packages state --- Обновляем
+sso205.hs.shared --- Kernel state --- тут ок
+sso205.hs.shared --- needrestart --- needrestart
+sso205.hs.shared --- packages state --- Обновления
+sso206.hs.shared --- Kernel state --- ok
+sso206.hs.shared --- needrestart --- needrestart
+sso206.hs.shared --- packages state --- Обновляем
+sso207.hs.shared --- Kernel state --- ok
+sso207.hs.shared --- needrestart --- needrestart
+sso207.hs.shared --- packages state --- обновляем
+sso208.hs.shared --- needrestart --- обновляем
+sso208.hs.shared --- packages state --- до крита
+sso209.hs.shared --- needrestart --- обновляем
+sso209.hs.shared --- packages state --- обновляем
+sso210.hs.shared --- Kernel state --- до крита
+sso210.hs.shared --- needrestart --- обновляем
+sso210.hs.shared --- packages state --- Обновляем
+sso47.hs.shared --- Firmware --- обновляем
+sso47.hs.shared --- packages state --- обновляем
+sso49.hs.shared --- Firmware --- обновляем
+sso49.hs.shared --- packages state --- обновляем
+sso50.hs.shared --- Firmware --- обновляем
+sso50.hs.shared --- packages state --- обновляем
+sso51.hs.shared --- Firmware --- обновляем
+sso51.hs.shared --- packages state --- обновляем
+sso53.hs.shared --- Firmware --- обновляем
+sso53.hs.shared --- packages state --- обновляем
+sso57.hs.shared --- Firmware --- обновляем
+sso57.hs.shared --- packages state --- обновляем
+sso63.hs.shared --- Firmware --- обновляем
+sso63.hs.shared --- packages state --- обновляем
+sso64.hs.shared --- Firmware --- обновляем
+sso64.hs.shared --- packages state --- обновляем
+sso65.hs.shared --- Firmware --- обновляем
+sso65.hs.shared --- packages state --- обновляем
+sso67.hs.shared --- Firmware --- обновляем
+sso67.hs.shared --- packages state --- обновляем
+sso69.hs.shared --- Firmware --- обновляем
+sso69.hs.shared --- packages state --- обновляем
+sso72.hs.shared --- Firmware --- обновляем
+sso72.hs.shared --- packages state --- обновляем
+sso74.hs.shared --- Firmware --- обновляем
+sso74.hs.shared --- Swap --- до крита
+sso74.hs.shared --- packages state --- обновляем
+sso81.hs.shared --- Firmware --- обновляем
+sso81.hs.shared --- packages state --- обновляем
+sso83.hs.shared --- Firmware --- обновляем
+sso83.hs.shared --- packages state --- обновляем
+sso92.hs.shared --- Firmware --- обновляем
+sso92.hs.shared --- packages state --- обновляем
+sso93.hs.shared --- Firmware --- обновляем
+sso93.hs.shared --- packages state --- обновляем
+sso95.hs.shared --- Firmware --- обновляем
+sso95.hs.shared --- packages state --- обновляем
+sso97.hs.shared --- Firmware --- обновляем
+sso97.hs.shared --- packages state --- обновляем
+sst100.hs.shared --- Firmware --- обновляем
+sst100.hs.shared --- packages state --- обновляем
+sst101.hs.shared --- Firmware --- обновляем
+sst101.hs.shared --- packages state --- обновляем
+sst102.hs.shared --- Firmware --- обновляем
+sst102.hs.shared --- packages state --- обновляем
+sst109.hs.shared --- Firmware --- обновляем
+sst109.hs.shared --- packages state --- обновляем
+sst111.hs.shared --- Firmware --- обновляем
+sst111.hs.shared --- packages state --- обновляем
+sst115.hs.shared --- Firmware --- обновляем
+sst115.hs.shared --- packages state --- обновляем
+sst125.hs.shared --- Kernel state --- OK
+sst125.hs.shared --- needrestart --- need restart
+sst125.hs.shared --- packages state --- Обновляем
+sst126.hs.shared --- Firmware --- обновляем
+sst126.hs.shared --- packages state --- обновляем
+sst129.hs.shared --- Firmware --- обновляем
+sst129.hs.shared --- Memory --- wc
+sst129.hs.shared --- packages state --- обновляем
+sst132.hs.shared --- Firmware --- обновляем
+sst132.hs.shared --- packages state --- обновляем
+sst134.hs.shared --- Firmware --- обновляем
+sst134.hs.shared --- packages state --- обновляем
+sst135.hs.shared --- Disk usage --- до крита
+sst135.hs.shared --- Firmware --- обновляем
+sst135.hs.shared --- packages state --- обновляем
+sst136.hs.shared --- Firmware --- обновляем
+sst136.hs.shared --- packages state --- обновляем
+sst137.hs.shared --- Firmware --- обновляем
+sst137.hs.shared --- packages state --- обновляем
+sst143.hs.shared --- Firmware --- обновляем
+sst143.hs.shared --- packages state --- обновляем
+sst146.hs.shared --- Firmware --- обновляем
+sst146.hs.shared --- packages state --- обновляем
+sst149.hs.shared --- Firmware --- обновляем
+sst149.hs.shared --- packages state --- обновляем
+sst153.hs.shared --- Firmware --- обновляем
+sst153.hs.shared --- needrestart --- needrestart
+sst153.hs.shared --- packages state --- обновляем
+sst154.hs.shared --- Firmware --- обновляем
+sst154.hs.shared --- packages state --- обновляем
+sst161.hs.shared --- Firmware --- обновляем
+sst161.hs.shared --- Puppet last run --- 32516522018
+sst161.hs.shared --- packages state --- обновляем
+sst162.hs.shared --- Firmware --- обновляем
+sst162.hs.shared --- packages state --- обновляем
+sst165.hs.shared --- Firmware --- обновляем
+sst165.hs.shared --- packages state --- обновляем
+sst168.hs.shared --- Firmware --- обновляем
+sst168.hs.shared --- packages state --- обновляем
+sst201.hs.shared --- CPU power --- Включаем в bios'е
+sst201.hs.shared --- Firmware --- обновляем
+sst201.hs.shared --- Memory --- wc
+sst201.hs.shared --- needrestart --- needrestart
+sst201.hs.shared --- packages state --- Обновления
+sst202.hs.shared --- CPU power --- Включаем в bios'е
+sst202.hs.shared --- Firmware --- обновляем
+sst202.hs.shared --- Memory --- до крита
+sst202.hs.shared --- packages state --- Обновляем
+sst205.hs.shared --- CPU power --- Включаем в bios'е
+sst205.hs.shared --- Firmware --- обновляем
+sst205.hs.shared --- packages state --- Обновляем
+sst207.hs.shared --- CPU power --- Включаем в bios'е
+sst207.hs.shared --- Firmware --- обновляем
+sst207.hs.shared --- needrestart --- need restart
+sst207.hs.shared --- packages state --- Обновляем
+sst208.hs.shared --- CPU power --- Включаем в bios'е
+sst208.hs.shared --- Firmware --- обновляем
+sst208.hs.shared --- Kernel state --- Обновляем
+sst208.hs.shared --- needrestart --- обновляем
+sst208.hs.shared --- packages state --- Обновляем
+sst209.hs.shared --- CPU power --- Включаем в bios'е
+sst209.hs.shared --- Firmware --- обновляем
+sst209.hs.shared --- packages state --- Обновляем
+sst210.hs.shared --- CPU power --- Включаем в bios'е
+sst210.hs.shared --- Firmware --- Обновляем
+sst210.hs.shared --- needrestart --- needrestart
+sst210.hs.shared --- packages state --- Обновляем
+sst211.hs.shared --- CPU power --- Включаем в bios'е
+sst211.hs.shared --- Firmware --- обновляем
+sst211.hs.shared --- needrestart --- needrestart
+sst211.hs.shared --- packages state --- Обновляем
+sst214.hs.shared --- CPU power --- Включаем в bios'е
+sst214.hs.shared --- Firmware --- обновляем
+sst214.hs.shared --- needrestart --- needrestart
+sst214.hs.shared --- packages state --- Обновления
+sst215.hs.shared --- CPU power --- Включаем в bios'е
+sst215.hs.shared --- Firmware --- Обновляем
+sst215.hs.shared --- Kernel state --- обновляем
+sst215.hs.shared --- needrestart --- обновляем
+sst215.hs.shared --- packages state --- Обновляем
+sst217.hs.shared --- CPU power --- Включаем в bios'е
+sst217.hs.shared --- Firmware --- обновляем
+sst217.hs.shared --- Memory --- wc
+sst217.hs.shared --- needrestart --- needrestart
+sst217.hs.shared --- packages state --- Обновления
+sst218.hs.shared --- CPU power --- Включаем в bios'е
+sst218.hs.shared --- Firmware --- Обновляем
+sst218.hs.shared --- needrestart --- needrestart
+sst218.hs.shared --- packages state --- Обновления
+sst219.hs.shared --- CPU power --- Включаем в bios'е
+sst219.hs.shared --- Disk usage --- до крита
+sst219.hs.shared --- Firmware --- Обновляем
+sst219.hs.shared --- needrestart --- need restart
+sst219.hs.shared --- packages state --- Обновления
+sst220.hs.shared --- CPU power --- Включаем в bios'е
+sst220.hs.shared --- Firmware --- Обновляем
+sst220.hs.shared --- packages state --- Обновления
+sst221.hs.shared --- CPU power --- Включаем в bios'е
+sst221.hs.shared --- Firmware --- обновляем
+sst221.hs.shared --- packages state --- Обновляем
+sst222.hs.shared --- CPU power --- Включаем в bios'е
+sst222.hs.shared --- Firmware --- обновляем
+sst222.hs.shared --- needrestart --- needrestart
+sst222.hs.shared --- packages state --- Обновления
+sst223.hs.shared --- CPU power --- Включаем в bios'е
+sst223.hs.shared --- Firmware --- Обновляем
+sst223.hs.shared --- needrestart --- needrestart
+sst223.hs.shared --- packages state --- Обновления
+sst224.hs.shared --- CPU power --- Включаем в bios'е
+sst224.hs.shared --- Firmware --- обновляем
+sst224.hs.shared --- Kernel state --- Обновляем
+sst224.hs.shared --- needrestart --- needrestart
+sst224.hs.shared --- packages state --- Обновляем
+sst226.hs.shared --- Firmware --- обновляем
+sst226.hs.shared --- packages state --- Обновления
+sst227.hs.shared --- Memory --- до крита
+sst227.hs.shared --- packages state --- Обновления
+sst228.hs.shared --- CPU power --- Включаем в bios'е
+sst228.hs.shared --- Firmware --- обновляем
+sst228.hs.shared --- Memory --- до крита
+sst228.hs.shared --- needrestart --- needrestart
+sst228.hs.shared --- packages state --- Обновления
+sst229.hs.shared --- CPU power --- Включаем в bios'е
+sst229.hs.shared --- Firmware --- обновляем
+sst229.hs.shared --- Memory --- delay
+sst229.hs.shared --- packages state --- Обновляем
+sst230.hs.shared --- CPU power --- Включаем в bios'е
+sst230.hs.shared --- Firmware --- обновляем
+sst230.hs.shared --- needrestart --- needrestart
+sst230.hs.shared --- packages state --- Обновляем
+sst290.hs.shared --- CPU power --- Включаем в bios'е
+sst290.hs.shared --- Firmware --- обновляем
+sst290.hs.shared --- Kernel state --- обновляем
+sst290.hs.shared --- packages state --- Обновления
+sst300.hs.shared --- CPU power --- Включаем в bios'е
+sst300.hs.shared --- Firmware --- обновляем
+sst300.hs.shared --- packages state --- Обновления
+sst301.hs.shared --- CPU power --- Включаем в bios'е
+sst301.hs.shared --- Firmware --- обновляем
+sst301.hs.shared --- needrestart --- обновляем
+sst301.hs.shared --- packages state --- Обновляем
+sst302.hs.shared --- CPU power --- Включаем в bios'е
+sst302.hs.shared --- Firmware --- обновляем
+sst302.hs.shared --- needrestart --- need restart
+sst302.hs.shared --- packages state --- Обновления
+sst303.hs.shared --- CPU power --- Включаем в bios'е
+sst303.hs.shared --- Kernel state --- здесь все ок
+sst303.hs.shared --- packages state --- Обновления
+sst304.hs.shared --- CPU power --- Включаем в bios'е
+sst304.hs.shared --- Kernel state --- здесь все ок
+sst304.hs.shared --- needrestart --- needrestart
+sst304.hs.shared --- packages state --- Обновления
+sst305.hs.shared --- packages state --- Обновляем
+sst306.hs.shared --- Kernel state --- kernel
+sst306.hs.shared --- needrestart --- need restart
+sst306.hs.shared --- packages state --- Обновляем
+sst307.hs.shared --- Kernel state --- check
+sst307.hs.shared --- needrestart --- need restart
+sst307.hs.shared --- packages state --- Обновляем
+sst308.hs.shared --- Kernel state --- тут ок
+sst308.hs.shared --- needrestart --- обновляем
+sst308.hs.shared --- packages state --- Обновляем
+sst309.hs.shared --- Kernel state --- тут ок
+sst309.hs.shared --- needrestart --- needrestart
+sst309.hs.shared --- packages state --- Обновления
+sst310.hs.shared --- Kernel state --- обновляем
+sst310.hs.shared --- needrestart --- до крита
+sst310.hs.shared --- packages state --- Обновления
+sst311.hs.shared --- Kernel state --- ok
+sst311.hs.shared --- needrestart --- needrestart
+sst311.hs.shared --- packages state --- Обновления
+sst312.hs.shared --- Kernel state --- ok
+sst312.hs.shared --- needrestart --- needrestart
+sst312.hs.shared --- packages state --- Обновления
+sst66.hs.shared --- Firmware --- обновляем
+sst66.hs.shared --- packages state --- обновляем
+sst67.hs.shared --- Firmware --- обновляем
+sst67.hs.shared --- packages state --- обновляем
+sst69.hs.shared --- Firmware --- обновляем
+sst69.hs.shared --- packages state --- обновляем
+sst70.hs.shared --- Firmware --- обновляем
+sst70.hs.shared --- packages state --- обновляем
+sst71.hs.shared --- Firmware --- обновляем
+sst71.hs.shared --- packages state --- обновляем
+sst72.hs.shared --- Firmware --- обновляем
+sst72.hs.shared --- packages state --- обновляем
+sst79.hs.shared --- Firmware --- обновляем
+sst79.hs.shared --- packages state --- обновляем
+sst80.hs.shared --- Firmware --- Обновляем
+sst80.hs.shared --- packages state --- обновляем
+sst82.hs.shared --- Firmware --- обновляем
+sst82.hs.shared --- packages state --- обновляем
+sst86.hs.shared --- Firmware --- обновляем
+sst86.hs.shared --- packages state --- обновляем
+sst87.hs.shared --- Firmware --- обновляем
+sst87.hs.shared --- packages state --- обновляем
+sst88.hs.shared --- Firmware --- обновляем
+sst88.hs.shared --- packages state --- обновляем
+sst89.hs.shared --- Firmware --- обновляем
+sst89.hs.shared --- packages state --- обновляем
+sst90.hs.shared --- Firmware --- обновляем
+sst90.hs.shared --- packages state --- обновляем
+sst92.hs.shared --- Firmware --- обновляем
+sst92.hs.shared --- packages state --- обновляем
+sst93.hs.shared --- Firmware --- обновляем
+sst93.hs.shared --- packages state --- обновляем
+sst95.hs.shared --- Firmware --- обновляем
+sst95.hs.shared --- packages state --- обновляем
+sst98.hs.shared --- Firmware --- обновляем
+sst98.hs.shared --- packages state --- обновляем
+sst99.hs.shared --- CPU power --- Включаем в bios'е
+sst99.hs.shared --- Firmware --- обновляем
+sst99.hs.shared --- Memory --- delay
+sst99.hs.shared --- packages state --- Обновления
+static.shared.masterhost.ru --- Host address --- #38048412529 — Host address
+storage.test.ipam.infra.masterhost.ru --- Host address --- #38048412529 — Host address
+storage1.bill.backup --- Kernel state --- обновляем
+storage1.bill.backup --- needrestart --- 36219994172 — unix - needrestart
+storage1.bill.backup --- packages state --- Обновляем
+storage1.infra.backup --- packages state --- обновляем
+storage1.mail.backup --- Firmware --- обновляет unix
+storage1.mail.backup --- packages state --- обновляем
+storage10.shared.backup --- packages state --- обновляем
+storage11.shared.backup --- packages state --- обновляем
+storage12.shared.backup --- Firmware --- обновления
+storage12.shared.backup --- packages state --- обновляем
+storage13.shared.backup --- packages state --- обновляем
+storage14.shared.backup --- packages state --- обновляем
+storage15.shared.backup --- packages state --- обновляем
+storage2.infra.backup --- Kernel state --- обновляем
+storage2.infra.backup --- needrestart --- need restart
+storage2.infra.backup --- packages state --- Обновляем
+storage2.mail.backup --- Firmware --- Обновляем
+storage2.mail.backup --- packages state --- обновляем
+storage2.shared.backup --- packages state --- обновляем
+storage3.mail.backup --- CPU power --- перенастроить bios на hp
+storage3.mail.backup --- Firmware --- обновляем
+storage3.mail.backup --- Kernel state --- обновляем
+storage3.mail.backup --- needrestart --- needrestart
+storage3.shared.backup --- Disk usage --- wc
+storage3.shared.backup --- Kernel state --- обновляем
+storage4.shared.backup --- packages state --- обновляем
+storage5.shared.backup --- packages state --- обновляем
+storage6.shared.backup --- packages state --- обновляем
+storage7.shared.backup --- packages state --- обновляем
+storage8.shared.backup --- Kernel state --- обновляет unix
+storage8.shared.backup --- memory errors --- wc
+storage9.shared.backup --- packages state --- обновляем
+sup1.hq.infra --- Disk usage --- до крита
+sup1.hq.infra --- Firmware --- Обновляем
+sup2.hq.infra --- packages state --- Обновляем
+svn.masterhost.ru --- Host address --- 38048412529 — Host address
+svn1.vcs.infra --- Firmware --- обновляем
+svn1.vcs.infra --- Host address --- 38048412529 — Host address
+svn1.vcs.infra --- check_ptr --- hide
+svn1.vcs.infra --- packages state --- Обновляем
+test1.app.ofd --- needrestart --- 36219994172 unix - needrestart
+test1.app.ofd --- packages state --- обновляем
+test1.be.mail --- CPU power --- Включаем в bios'е
+test1.be.mail --- Puppet last run --- 32516522018
+test1.be.mail --- XFS usage --- 36823097232 — resetup test1.be.mail to XFS
+test1.ctrl.cloud.nebula --- Host address --- 36107051766 — Unix test infrastructure services
+test1.ctrl.cloud.nebula --- Kernel state --- Обновляем
+test1.ctrl.cloud.nebula --- Memory --- wc
+test1.ctrl.cloud.nebula --- check_ptr --- 36107051766 — Unix test infrastructure services
+test1.ctrl.cloud.nebula --- needrestart --- 30389618662 — Unix test infrastructure services
+test1.ctrl.cloud.nebula --- packages state --- 35905851917
+test1.db.ofd --- Puppet certificate --- 30389618662 — Unix test infrastructure services
+test1.db.ofd --- Puppet last run --- 32516522018
+test1.db.ofd --- needrestart --- обновляем
+test1.db.ofd --- packages state --- 30389618662
+test1.dss.ofd --- needrestart --- обновляем
+test1.dss.ofd --- packages state --- Обновляют unix
+test2.ctrl.cloud.nebula --- Host address --- 36107051766 — Unix test infrastructure services
+test2.ctrl.cloud.nebula --- Kernel state --- 35905851917
+test2.ctrl.cloud.nebula --- check_ptr --- 36107051766 — Unix test infrastructure services
+test2.ctrl.cloud.nebula --- needrestart --- 35905851917
+test2.ctrl.cloud.nebula --- packages state --- 35905851917
+test2.db.ofd --- Puppet certificate --- 30389618662 — Unix test infrastructure services
+test2.db.ofd --- Puppet last run --- 32516522018
+test2.db.ofd --- needrestart --- need restart
+test2.db.ofd --- packages state --- Обновляют unix
+test2.dss.ofd --- needrestart --- обновляем
+test2.dss.ofd --- packages state --- обновляем
+test3.ctrl.cloud.nebula --- Host address --- 36107051766 — Unix test infrastructure services
+test3.ctrl.cloud.nebula --- Kernel state --- Обновляем
+test3.ctrl.cloud.nebula --- Puppet last run --- 32516522018
+test3.ctrl.cloud.nebula --- check_ptr --- 36107051766 — Unix test infrastructure services
+test3.ctrl.cloud.nebula --- needrestart --- 30389618662 — Unix test infrastructure services
+test3.ctrl.cloud.nebula --- packages state --- 35905851917
+test5.hs.shared --- Puppet last run --- 32516522018
+test7.hs.shared --- Puppet last run --- 32516522018
+test9.hs.shared --- needrestart --- needrestart
+test9.hs.shared --- packages state --- обновляем
+tfs.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+tmp.mon --- Disk usage --- до крита
+tmp.mon --- check_ptr --- 35679616374 — tmp.mon - services  - The acknowledgement expires at: 2020-07-10 20:44:00.
+tmp.mon --- needrestart --- обновляем
+tmp.mon --- packages state --- обновляем
+trm01.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+wdb5.shared --- Firmware --- обновляем
+wdb5.shared --- packages state --- Обновляем
+wdb6.hs.shared --- Kernel state --- обновляем
+wdb6.hs.shared --- needrestart --- needrestart
+wdb6.hs.shared --- packages state --- Обновляем
+wdb7.hs.shared --- Firmware --- обновляем
+wdb7.hs.shared --- Kernel state --- обновляем
+wdb7.hs.shared --- needrestart --- need restart
+wdb7.hs.shared --- packages state --- Обновляем
+web1.old.otrs --- packages state --- до крита
+web2.infra --- packages state --- Обновляем
+web2.mail --- Firmware --- обновляем
+web2.mail --- packages state --- обновляем
+web3.dev.otrs --- packages state --- 30389618662
+web3.mail --- Firmware --- обновляем
+web3.mail --- packages state --- обновляем
+web3.otrs --- Firmware --- обновляем
+web3.otrs --- packages state --- обновляем
+web4.dev.otrs --- packages state --- 30389618662
+web4.test.bill --- packages state --- Обновляем
+web5.otrs --- packages state --- обновляем
+web5.site --- packages state --- Обновляем
+web5.test.bill --- packages state --- Обновляют unix
+web6.otrs --- packages state --- до крита
+web6.site --- Host address --- до крита
+web6.site --- packages state --- Обновляем
+web7.bill --- packages state --- обновляем
+web7.site --- packages state --- Обновляем
+web8.bill --- packages state --- #33239096001 — Пробники *bill
+webftp1.shared --- packages state --- обновляем
+webftp2.shared --- packages state --- обновляем
+wincas11.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+wincas11.team --- reboot Pending --- wc
+wincas12.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+wincas12.team --- reboot Pending --- 37114676003
+windpm02.team --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winhv05 --- VPS performance --- delay
+winhv33 --- Hyper-V Available Memory --- 31286991491
+winhv50 --- VPS performance --- delay
+winhv51 --- VPS performance --- delay
+winhv53 --- Disk usage win --- delay
+winhv61 --- reboot Pending --- 33912588769 — winhv61; reboot Pending
+winlogstorage01.team --- Host address --- 38048412529
+winmailcas03.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailcas04.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailcas05.msbo --- Host address --- host address
+winmaildb101.hex --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc.msbo --- Host address --- 38048412529 — Host address
+winmaildc01.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc02.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc03.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc04.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc06.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc101 --- Free memory --- wc
+winmaildc101 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc102 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmaildc103 --- Free memory --- wc
+winmaildc103 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailhub01.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailhub02.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailhub11.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailmbx101 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailmbx102 --- Host address --- до крита
+winmailmondb02.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailsrv02.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailsrv05.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winmailwsus01.msbo --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winsys10.hosting.win --- Host address --- wc
+winvz19 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+winweb03 --- Host address --- host address
+winweb03.checks --- Host address --- 37563346557
+winweb06 --- Host address --- 38048412529 — Host address
+winweb06.checks --- Host address --- до крита
+winweb11 --- Host address --- до крита
+winweb11.checks --- Host address --- до крита
+winweb15.checks --- Host address --- 37563346557
+wsql10 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+wsql11 --- Host address --- #35184567687 — windows host NRPE - The acknowledgement expires at: 2020-07-19 12:59:10.
+wsql11 --- reboot Pending --- wc
+wsus01.team --- Host address --- до крита
+wsys5.hosting.win --- Host address --- 38048412529 — Host address
+wsys8.hosting.win --- Host address --- до крита
+
+===[ Даунтаймы ]===
+
+/// Hosts
+
+ads500.hs.shared --- vdoroshenko --- hide
+ads777.hs.shared --- vbelchenko --- 36823097232 — resetup test1.be.mail to XFS
+asterisk.test.masterhost.ru --- vbelchenko --- test
+git.test.masterhost.ru --- vbelchenko --- test
+hvkvm01.hv.vm --- asazonov --- выпилили
+hvkvm02.hv.vm --- asazonov --- выпилили
+hvportal01.hv.vm --- asazonov --- выпилили
+hvportal02.hv.vm --- asazonov --- выпилили
+hvrdpkvm01.hv.vm --- asazonov --- выпилили
+hvrdpkvm02.hv.vm --- asazonov --- выпЋ�лили
+hvspf01.hv.vm --- asazonov --- выпилили
+hvspf02.hv.vm --- asazonov --- выпилили
+hvtest12.test.hv.vm --- ddavudov --- 34138619019
+hvtest15.test.hv.vm --- ddavudov --- 34138619019
+hvtest16.test.hv.vm --- ddavudov --- 34138619019
+hvtest17.test.hv.vm --- ddavudov --- 34138619019
+kvm.hv --- asazonov --- выпилили
+kvm35.masterhost.ru --- vbelchenko --- delay
+master2.test.puppet --- vbelchenko --- test
+msk-aku-0 --- aakulov --- exploration
+node1.kvm.nebula --- ddavudov --- 37822916731
+node1.mname.eppapi --- vbelchenko --- Ждём добавления адресов в вайтлист
+node1.test.avdesk --- vbelchenko --- test
+node1.test.gitlab.infra --- vbelchenko --- test
+node1.test.kube --- vbelchenko --- test
+node2.mname.eppapi --- vbelchenko --- Ждём добавления адресов в вайтлист
+node2.test.kube --- vbelchenko --- test
+node2.wikijs.corp --- aakulov --- development
+node3.test.kube --- vbelchenko --- test
+node4.test.minio.ipam.infra --- vbelchenko --- test
+registry.git.test.masterhost.ru --- vbelchenko --- test
+repo.test.hv.vm.masterhost.ru --- vbelchenko --- test
+skd01.office --- alabzina --- forever
+sup1.hq.infra --- rmamedkhanov --- спилим
+test1.be.mail --- rgasanov --- setup
+test5.hs.shared --- rgasanov --- test
+test7.hs.shared --- vchernyshev --- dev
+test8.hs.shared --- aakulov --- test
+undefined_host --- aakulov --- Не реагировать
+winvz02 --- ddavudov --- Down forever
+
+/// Services
+
+ac2.mail -- ipmi network settings --- aakulov --- development
+ac3.mail -- ipmi network settings --- aakulov --- development
+adm3.hq.infra -- ipmi network settings --- aakulov --- development
+ads500.hs.shared -- mysql_Check --- rgasanov --- Видимо тестовый пробник
+ads591.hs.shared -- ipmi network settings --- aakulov --- development
+ads613.hs.shared -- ipmi network settings --- aakulov --- development
+ads616.hs.shared -- ipmi network settings --- aakulov --- development
+ads622.hs.shared -- Disk usage --- ddavudov --- zero
+ads622.hs.shared -- ipmi network settings --- aakulov --- development
+ads629.hs.shared -- ipmi network settings --- aakulov --- development
+ads630.hs.shared -- ipmi network settings --- aakulov --- development
+ads631.hs.shared -- ipmi network settings --- aakulov --- development
+ads632.hs.shared -- ipmi network settings --- aakulov --- development
+ads634.hs.shared -- ipmi network settings --- aakulov --- development
+ads636.hs.shared -- ipmi network settings --- aakulov --- development
+ads637.hs.shared -- ipmi network settings --- aakulov --- development
+ads647.hs.shared -- IO stat --- ddavudov --- zero
+ads647.hs.shared -- ipmi network settings --- aakulov --- development
+ads676.hs.shared -- ipmi network settings --- aakulov --- development
+ads678.hs.shared -- Firmware --- rgasanov --- #32920483011
+ads678.hs.shared -- ipmi login --- aakulov --- development
+ads678.hs.shared -- ipmi network settings --- aakulov --- development
+ads685.hs.shared -- ipmi network settings --- aakulov --- development
+ads688.hs.shared -- ipmi network settings --- aakulov --- development
+ads690.hs.shared -- ipmi network settings --- aakulov --- development
+ads691.hs.shared -- ipmi network settings --- aakulov --- development
+ads692.hs.shared -- ipmi network settings --- aakulov --- development
+ads693.hs.shared -- ipmi network settings --- aakulov --- development
+ads705.hs.shared -- ipmi network settings --- aakulov --- development
+ads712.hs.shared -- ipmi network settings --- aakulov --- development
+ads718.hs.shared -- ipmi login --- aakulov --- development
+ads718.hs.shared -- ipmi network settings --- aakulov --- development
+ads720.hs.shared -- ipmi network settings --- aakulov --- development
+ads728.hs.shared -- ipmi network settings --- aakulov --- development
+ads732.hs.shared -- ipmi network settings --- aakulov --- development
+ads735.hs.shared -- ipmi login --- aakulov --- development
+ads735.hs.shared -- ipmi network settings --- aakulov --- development
+ads735.hs.shared -- systemd services --- aakulov --- development
+ads750.hs.shared -- ipmi login --- aakulov --- development
+ads750.hs.shared -- ipmi network settings --- aakulov --- development
+ads750.hs.shared -- needrestart --- rgasanov --- needrestart
+ads750.hs.shared -- systemd services --- aakulov --- development
+ads758.hs.shared -- ipmi network settings --- aakulov --- development
+ads758.hs.shared -- systemd services --- aakulov --- development
+ads759.hs.shared -- Memory --- ddavudov --- zero
+ads759.hs.shared -- ipmi network settings --- aakulov --- development
+ads759.hs.shared -- systemd services --- aakulov --- development
+ads760.hs.shared -- ipmi network settings --- aakulov --- development
+ads760.hs.shared -- needrestart --- rgasanov --- needrestart
+ads760.hs.shared -- systemd services --- aakulov --- development
+ads761.hs.shared -- ipmi network settings --- aakulov --- development
+ads761.hs.shared -- systemd services --- aakulov --- development
+ads762.hs.shared -- ipmi network settings --- aakulov --- development
+ads762.hs.shared -- systemd services --- aakulov --- development
+ads763.hs.shared -- ipmi network settings --- aakulov --- development
+ads763.hs.shared -- needrestart --- rgasanov --- needrestart
+ads763.hs.shared -- systemd services --- aakulov --- development
+ads764.hs.shared -- systemd services --- aakulov --- development
+ads765.hs.shared -- needrestart --- rgasanov --- needrestart
+ads765.hs.shared -- systemd services --- aakulov --- development
+ads766.hs.shared -- systemd services --- aakulov --- development
+ads767.hs.shared -- systemd services --- aakulov --- development
+ads768.hs.shared -- systemd services --- aakulov --- development
+ads769.hs.shared -- systemd services --- aakulov --- development
+ads777.hs.shared -- ipmi network settings --- aakulov --- development
+ads777.hs.shared -- systemd services --- aakulov --- development
+archive1.mail.bill -- systemd services --- aakulov --- development
+be1.mail -- Memory --- ddavudov --- zero
+be1.mail -- ipmi network settings --- aakulov --- development
+be1.mail -- systemd services --- aakulov --- development
+be2.mail -- ipmi network settings --- aakulov --- development
+be2.mail -- systemd services --- aakulov --- development
+be3.mail -- Memory --- ddavudov --- zero
+be3.mail -- ipmi network settings --- aakulov --- development
+be3.mail -- systemd services --- aakulov --- development
+be4.mail -- Memory --- ddavudov --- zero
+be4.mail -- ipmi network settings --- aakulov --- development
+be4.mail -- systemd services --- aakulov --- development
+be5.mail -- ipmi network settings --- aakulov --- development
+be5.mail -- systemd services --- aakulov --- development
+be6.mail -- ipmi network settings --- aakulov --- development
+be6.mail -- systemd services --- aakulov --- development
+be7.mail -- Memory --- ddavudov --- zero
+be7.mail -- ipmi network settings --- aakulov --- development
+be7.mail -- systemd services --- aakulov --- development
+be8.mail -- Memory --- ddavudov --- zero
+be8.mail -- ipmi network settings --- aakulov --- development
+be8.mail -- systemd services --- aakulov --- development
+bk2.hs.shared -- ipmi login --- aakulov --- development
+bk2.hs.shared -- ipmi network settings --- aakulov --- development
+bk3.hs.shared -- ipmi login --- aakulov --- development
+bk3.hs.shared -- ipmi network settings --- aakulov --- development
+bk3.pvc -- Tech_BACKUP_status_experimental --- rgasanov --- Не чиним
+bk5.pvc -- Tech_BACKUP_status_experimental --- rgasanov --- Не чиним
+blue1.hs.shared -- ipmi network settings --- aakulov --- development
+blue1.hs.shared -- systemd services --- aakulov --- development
+blue3.hs.shared -- systemd services --- aakulov --- development
+bs7.hs.shared -- ipmi login --- aakulov --- development
+bs7.hs.shared -- ipmi network settings --- aakulov --- development
+bs8.hs.shared -- ipmi login --- aakulov --- development
+bs8.hs.shared -- ipmi network settings --- aakulov --- development
+btx30.hs.shared -- ipmi network settings --- aakulov --- development
+btx30.hs.shared -- systemd services --- aakulov --- development
+btx31.hs.shared -- ipmi network settings --- aakulov --- development
+btx31.hs.shared -- needrestart --- rgasanov --- needrestart
+btx31.hs.shared -- systemd services --- aakulov --- development
+btx32.hs.shared -- ipmi network settings --- aakulov --- development
+btx32.hs.shared -- needrestart --- rgasanov --- needrestart
+btx32.hs.shared -- systemd services --- aakulov --- development
+btx33.hs.shared -- ipmi network settings --- aakulov --- development
+btx33.hs.shared -- systemd services --- aakulov --- development
+btx34.hs.shared -- ipmi network settings --- aakulov --- development
+btx34.hs.shared -- needrestart --- asazonov --- wait
+btx34.hs.shared -- systemd services --- aakulov --- development
+btx36.hs.shared -- ipmi network settings --- aakulov --- development
+btx36.hs.shared -- needrestart --- asazonov --- wait
+btx36.hs.shared -- systemd services --- aakulov --- development
+btx37.hs.shared -- ipmi network settings --- aakulov --- development
+btx37.hs.shared -- needrestart --- rgasanov --- needrestart
+btx37.hs.shared -- systemd services --- aakulov --- development
+btx38.hs.shared -- ipmi network settings --- aakulov --- development
+btx38.hs.shared -- needrestart --- rgasanov --- needrestart
+btx38.hs.shared -- systemd services --- aakulov --- development
+bugzilla1.archive -- systemd services --- aakulov --- development
+cache10.dns.infra -- ipmi network settings --- aakulov --- development
+cache7.dns.infra -- ipmi network settings --- aakulov --- development
+catalog11.shared.backup -- ipmi login --- aakulov --- development
+catalog11.shared.backup -- ipmi network settings --- aakulov --- development
+catalog12.shared.backup -- ipmi login --- aakulov --- development
+catalog12.shared.backup -- ipmi network settings --- aakulov --- development
+catalog13.shared.backup -- ipmi login --- aakulov --- development
+catalog13.shared.backup -- ipmi network settings --- aakulov --- development
+catalog13.shared.backup -- needrestart --- rgasanov --- needrestart
+catalog14.shared.backup -- ipmi login --- aakulov --- development
+catalog14.shared.backup -- ipmi network settings --- aakulov --- development
+catalog15.shared.backup -- ipmi login --- aakulov --- development
+catalog15.shared.backup -- ipmi network settings --- aakulov --- development
+catalog16.shared.backup -- ipmi login --- aakulov --- development
+catalog16.shared.backup -- ipmi network settings --- aakulov --- development
+cbs2.hs.shared -- ipmi network settings --- aakulov --- development
+cfssl1.pki -- needrestart --- rgasanov --- needrestart
+cfssl1.pki -- systemd services --- aakulov --- development
+cfssl1.test.pki -- systemd services --- aakulov --- development
+cloud1.corp -- systemd services --- aakulov --- development
+cm103.hs.shared -- ipmi login --- aakulov --- development
+cm103.hs.shared -- ipmi network settings --- aakulov --- development
+cm106.hs.shared -- ipmi login --- aakulov --- development
+cm106.hs.shared -- ipmi network settings --- aakulov --- development
+cm99.hs.shared -- ipmi login --- aakulov --- development
+cm99.hs.shared -- ipmi login --- aakulov --- development
+cm99.hs.shared -- ipmi network settings --- aakulov --- development
+cm99.hs.shared -- ipmi network settings --- aakulov --- development
+css1.hs.shared -- ipmi network settings --- aakulov --- development
+ctrl1.cloud.nebula -- systemd services --- aakulov --- development
+ctrl1.infra.backup -- ipmi login --- aakulov --- development
+ctrl1.infra.backup -- ipmi network settings --- aakulov --- development
+ctrl1.nebula -- ipmi network settings --- aakulov --- development
+ctrl1.nebula -- systemd services --- aakulov --- development
+ctrl1.shared.backup -- ipmi network settings --- aakulov --- development
+ctrl1.test.nebula -- systemd services --- aakulov --- development
+ctrl2.cloud.nebula -- systemd services --- aakulov --- development
+ctrl2.nebula -- systemd services --- aakulov --- development
+ctrl2.test.nebula -- systemd services --- aakulov --- development
+ctrl3.cloud.nebula -- systemd services --- aakulov --- development
+ctrl3.nebula -- systemd services --- aakulov --- development
+ctrl3.test.nebula -- systemd services --- aakulov --- development
+ctrlshwin2.bill -- ipmi network settings --- aakulov --- development
+cups1.bill -- systemd services --- aakulov --- development
+cups1.test.bill -- systemd services --- aakulov --- development
+cups2.bill -- systemd services --- aakulov --- development
+db1.bill -- ipmi login --- aakulov --- development
+db1.bill -- ipmi network settings --- aakulov --- development
+db1.bill -- systemd services --- aakulov --- development
+db2.bill -- ipmi login --- aakulov --- development
+db2.bill -- ipmi network settings --- aakulov --- development
+db2.bill -- replication state --- dzhevlanov --- Unix working
+db2.bill -- systemd services --- aakulov --- development
+db2.bill -- tcp states --- dzhevlanov --- Unix working
+db2.bill -- tcp states ipv6 --- dzhevlanov --- Unix working
+db3.corp -- ipmi network settings --- aakulov --- development
+db3.dev.bill -- systemd services --- aakulov --- development
+db3.dev.bill -- tcp states ipv6 --- vchernyshev --- dev
+db3.patch.bill -- systemd services --- aakulov --- development
+db3.test.bill -- systemd services --- aakulov --- development
+db4.corp -- ipmi network settings --- aakulov --- development
+dbe605.hs.shared -- ipmi login --- aakulov --- development
+dbe605.hs.shared -- ipmi network settings --- aakulov --- development
+dbe606.hs.shared -- ipmi login --- aakulov --- development
+dbe606.hs.shared -- ipmi network settings --- aakulov --- development
+dbe607.hs.shared -- ipmi network settings --- aakulov --- development
+dbe609.hs.shared -- ipmi login --- aakulov --- development
+dbe609.hs.shared -- ipmi network settings --- aakulov --- development
+dbe610.hs.shared -- ipmi login --- aakulov --- development
+dbe610.hs.shared -- ipmi network settings --- aakulov --- development
+dbe611.hs.shared -- ipmi login --- aakulov --- development
+dbe611.hs.shared -- ipmi network settings --- aakulov --- development
+dbe612.hs.shared -- ipmi login --- aakulov --- development
+dbe612.hs.shared -- ipmi network settings --- aakulov --- development
+dbe620.hs.shared -- ipmi network settings --- aakulov --- development
+dbe623.hs.shared -- ipmi login --- aakulov --- development
+dbe623.hs.shared -- ipmi network settings --- aakulov --- development
+dbe624.hs.shared -- ipmi login --- aakulov --- development
+dbe624.hs.shared -- ipmi network settings --- aakulov --- development
+dbe625.hs.shared -- ipmi network settings --- aakulov --- development
+dbe626.hs.shared -- ipmi network settings --- aakulov --- development
+dbe627.hs.shared -- ipmi login --- aakulov --- development
+dbe627.hs.shared -- ipmi network settings --- aakulov --- development
+dbe629.hs.shared -- ipmi login --- aakulov --- development
+dbe629.hs.shared -- ipmi network settings --- aakulov --- development
+dbe631.hs.shared -- ipmi login --- aakulov --- development
+dbe631.hs.shared -- ipmi network settings --- aakulov --- development
+dbe632.hs.shared -- ipmi login --- aakulov --- development
+dbe632.hs.shared -- ipmi network settings --- aakulov --- development
+dbe633.hs.shared -- ipmi network settings --- aakulov --- development
+dbe634.hs.shared -- ipmi network settings --- aakulov --- development
+dbe635.hs.shared -- ipmi network settings --- aakulov --- development
+deb1.dev -- ipmi login --- aakulov --- development
+deb1.dev -- ipmi network settings --- aakulov --- development
+dev.test.hv.vm -- check_git --- vbelchenko --- 31271905156 — check_git
+dev1.proxy.whois -- IO stat --- dpopov --- 34561393773
+dev1.proxy.whois -- Puppet certificate --- vbelchenko --- different environment
+dev1.proxy.whois -- systemd services --- aakulov --- development
+dev2.xen.virt -- ipmi login --- aakulov --- development
+dev2.xen.virt -- ipmi network settings --- aakulov --- development
+dev3.xen.virt -- ipmi login --- aakulov --- development
+dev3.xen.virt -- ipmi network settings --- aakulov --- development
+dev4.xen.virt -- ipmi login --- aakulov --- development
+dev4.xen.virt -- ipmi network settings --- aakulov --- development
+dev6.xen.virt -- Puppet certificate --- vbelchenko --- Нет профиля в новом паппете
+dev6.xen.virt -- Puppet environment --- aakulov --- development
+dev6.xen.virt -- Puppet environment --- vbelchenko --- Нет профиля в новом паппете
+dev6.xen.virt -- ipmi login --- aakulov --- development
+dev6.xen.virt -- ipmi network settings --- aakulov --- development
+dev6.xen.virt -- systemd services --- aakulov --- development
+dhcp2.infra -- ipmi network settings --- aakulov --- development
+dns2 -- ipmi login --- aakulov --- development
+dns2 -- ipmi network settings --- aakulov --- development
+dns3 -- ipmi login --- aakulov --- development
+dns3 -- ipmi network settings --- aakulov --- development
+eximx1.mail -- ipmi login --- aakulov --- development
+eximx1.mail -- ipmi network settings --- aakulov --- development
+eximx10.mail -- ipmi login --- aakulov --- development
+eximx10.mail -- ipmi network settings --- aakulov --- development
+eximx11.mail -- ipmi login --- aakulov --- development
+eximx11.mail -- ipmi network settings --- aakulov --- development
+eximx12.mail -- ipmi login --- aakulov --- development
+eximx12.mail -- ipmi network settings --- aakulov --- development
+eximx4.mail -- ipmi login --- aakulov --- development
+eximx4.mail -- ipmi network settings --- aakulov --- development
+eximx6.corp -- ipmi network settings --- aakulov --- development
+eximx7.corp -- ipmi network settings --- aakulov --- development
+eximx8.mail -- ipmi login --- aakulov --- development
+eximx8.mail -- ipmi network settings --- aakulov --- development
+eximx9.mail -- ipmi login --- aakulov --- development
+eximx9.mail -- ipmi network settings --- aakulov --- development
+expired1.dns -- systemd services --- aakulov --- development
+expired2.dns -- systemd services --- aakulov --- development
+fe5.puppet.infra -- ipmi network settings --- aakulov --- development
+fe5.puppet.infra -- systemd services --- aakulov --- development
+fe6.mail -- ipmi network settings --- aakulov --- development
+fe7.mail -- ipmi network settings --- aakulov --- development
+fe8.mail -- ipmi network settings --- aakulov --- development
+gccdbe1.hs.shared -- ipmi network settings --- aakulov --- development
+gen124.hs.shared -- ipmi network settings --- aakulov --- development
+gen125.hs.shared -- ipmi network settings --- aakulov --- development
+gen126.hs.shared -- ipmi network settings --- aakulov --- development
+gen127.hs.shared -- ipmi network settings --- aakulov --- development
+gen128.hs.shared -- ipmi network settings --- aakulov --- development
+gen129.hs.shared -- ipmi network settings --- aakulov --- development
+gen131.hs.shared -- ipmi network settings --- aakulov --- development
+gen132.hs.shared -- ipmi network settings --- aakulov --- development
+gen133.hs.shared -- ipmi network settings --- aakulov --- development
+gen134.hs.shared -- ipmi network settings --- aakulov --- development
+gen135.hs.shared -- ipmi network settings --- aakulov --- development
+gen136.hs.shared -- ipmi network settings --- aakulov --- development
+gen137.hs.shared -- ipmi network settings --- aakulov --- development
+gen138.hs.shared -- ipmi network settings --- aakulov --- development
+gen139.hs.shared -- ipmi network settings --- aakulov --- development
+gen140.hs.shared -- ipmi network settings --- aakulov --- development
+gen141.hs.shared -- ipmi network settings --- aakulov --- development
+gen144.hs.shared -- ipmi network settings --- aakulov --- development
+gen145.hs.shared -- ipmi network settings --- aakulov --- development
+gen147.hs.shared -- IO stat --- ddavudov --- zero
+gen147.hs.shared -- ipmi network settings --- aakulov --- development
+gen148.hs.shared -- ipmi network settings --- aakulov --- development
+gen149.hs.shared -- ipmi network settings --- aakulov --- development
+gen150.hs.shared -- ipmi network settings --- aakulov --- development
+gen152.hs.shared -- ipmi network settings --- aakulov --- development
+gen153.hs.shared -- ipmi network settings --- aakulov --- development
+gen154.hs.shared -- ipmi network settings --- aakulov --- development
+gen155.hs.shared -- ipmi network settings --- aakulov --- development
+gen156.hs.shared -- ipmi network settings --- aakulov --- development
+gen157.hs.shared -- ipmi network settings --- aakulov --- development
+gen158.hs.shared -- ipmi network settings --- aakulov --- development
+gen159.hs.shared -- ipmi network settings --- aakulov --- development
+gen161.hs.shared -- ipmi network settings --- aakulov --- development
+gen162.hs.shared -- ipmi network settings --- aakulov --- development
+gen163.hs.shared -- ipmi network settings --- aakulov --- development
+gen164.hs.shared -- ipmi network settings --- aakulov --- development
+gen165.hs.shared -- ipmi network settings --- aakulov --- development
+gen166.hs.shared -- ipmi network settings --- aakulov --- development
+gen167.hs.shared -- ipmi network settings --- aakulov --- development
+gen168.hs.shared -- ipmi network settings --- aakulov --- development
+gen170.hs.shared -- ipmi network settings --- aakulov --- development
+gen171.hs.shared -- ipmi network settings --- aakulov --- development
+gen173.hs.shared -- ipmi network settings --- aakulov --- development
+gen174.hs.shared -- ipmi network settings --- aakulov --- development
+gen175.hs.shared -- ipmi network settings --- aakulov --- development
+gen176.hs.shared -- ipmi network settings --- aakulov --- development
+gen177.hs.shared -- ipmi network settings --- aakulov --- development
+gen178.hs.shared -- ipmi network settings --- aakulov --- development
+gen179.hs.shared -- ipmi network settings --- aakulov --- development
+gen180.hs.shared -- ipmi network settings --- aakulov --- development
+gen181.hs.shared -- ipmi network settings --- aakulov --- development
+gen182.hs.shared -- ipmi network settings --- aakulov --- development
+gen183.hs.shared -- ipmi network settings --- aakulov --- development
+gen184.hs.shared -- ipmi network settings --- aakulov --- development
+gen185.hs.shared -- ipmi network settings --- aakulov --- development
+gen187.hs.shared -- ipmi network settings --- aakulov --- development
+gen188.hs.shared -- ipmi network settings --- aakulov --- development
+gen189.hs.shared -- ipmi network settings --- aakulov --- development
+gen190.hs.shared -- ipmi network settings --- aakulov --- development
+gen192.hs.shared -- ipmi network settings --- aakulov --- development
+gen194.hs.shared -- ipmi network settings --- aakulov --- development
+gen197.hs.shared -- ipmi network settings --- aakulov --- development
+gen197.hs.shared -- needrestart --- rgasanov --- needrestart
+gen197.hs.shared -- systemd services --- aakulov --- development
+gen198.hs.shared -- ipmi network settings --- aakulov --- development
+gen199.hs.shared -- ipmi network settings --- aakulov --- development
+gen200.hs.shared -- ipmi network settings --- aakulov --- development
+gen202.hs.shared -- ipmi network settings --- aakulov --- development
+gen207.hs.shared -- ipmi network settings --- aakulov --- development
+gen208.hs.shared -- ipmi network settings --- aakulov --- development
+gen209.hs.shared -- ipmi network settings --- aakulov --- development
+gen210.hs.shared -- ipmi network settings --- aakulov --- development
+gen211.hs.shared -- ipmi network settings --- aakulov --- development
+gen212.hs.shared -- ipmi network settings --- aakulov --- development
+gen213.hs.shared -- ipmi network settings --- aakulov --- development
+gen215.hs.shared -- ipmi network settings --- aakulov --- development
+gen216.hs.shared -- ipmi network settings --- aakulov --- development
+gen217.hs.shared -- ipmi network settings --- aakulov --- development
+gen218.hs.shared -- ipmi network settings --- aakulov --- development
+gen219.hs.shared -- ipmi network settings --- aakulov --- development
+gen221.hs.shared -- ipmi network settings --- aakulov --- development
+gen222.hs.shared -- ipmi network settings --- aakulov --- development
+gen225.hs.shared -- ipmi network settings --- aakulov --- development
+gen300.hs.shared -- ipmi network settings --- aakulov --- development
+gen300.hs.shared -- needrestart --- rgasanov --- needrestart
+gen300.hs.shared -- systemd services --- aakulov --- development
+gen301.hs.shared -- ipmi network settings --- aakulov --- development
+gen301.hs.shared -- needrestart --- rgasanov --- needrestart
+gen301.hs.shared -- systemd services --- aakulov --- development
+gen302.hs.shared -- ipmi network settings --- aakulov --- development
+gen302.hs.shared -- systemd services --- aakulov --- development
+gen303.hs.shared -- ipmi network settings --- aakulov --- development
+gen303.hs.shared -- systemd services --- aakulov --- development
+gen304.hs.shared -- ipmi network settings --- aakulov --- development
+gen304.hs.shared -- needrestart --- rgasanov --- needrestart
+gen304.hs.shared -- systemd services --- aakulov --- development
+gen305.hs.shared -- ipmi network settings --- aakulov --- development
+gen306.hs.shared -- ipmi network settings --- aakulov --- development
+gen306.hs.shared -- needrestart --- rgasanov --- needrestart
+gen306.hs.shared -- systemd services --- aakulov --- development
+gen307.hs.shared -- ipmi network settings --- aakulov --- development
+gen307.hs.shared -- needrestart --- rgasanov --- needrestart
+gen307.hs.shared -- systemd services --- aakulov --- development
+gen308.hs.shared -- ipmi network settings --- aakulov --- development
+gen308.hs.shared -- needrestart --- rgasanov --- needrestart
+gen308.hs.shared -- systemd services --- aakulov --- development
+hadb3.test.bill -- systemd services --- aakulov --- development
+hadb5.bill -- systemd services --- aakulov --- development
+hadb6.bill -- systemd services --- aakulov --- development
+hvweb01.hv.vm -- Host address --- alabzina --- down
+hvworker01.hv.vm -- Host address --- alabzina --- down
+hyperv17.team -- reboot Pending --- asazonov --- в down до упора (с) afilippov
+infra1.clamav.shared -- systemd services --- aakulov --- development
+infra1.xen.virt -- ipmi login --- aakulov --- development
+infra1.xen.virt -- ipmi network settings --- aakulov --- development
+infra2.clamav.shared -- systemd services --- aakulov --- development
+infra3.xen.virt -- ipmi login --- aakulov --- development
+infra3.xen.virt -- ipmi network settings --- aakulov --- development
+ipvs10.shared -- check_ptr --- dpopov --- 39890133552
+ipvs10.shared -- systemd services --- aakulov --- development
+ipvs11.shared -- Puppet certificate --- vbelchenko --- different environment
+ipvs11.shared -- check_ptr --- dpopov --- 39890133552
+ipvs11.shared -- systemd services --- aakulov --- development
+ipvs12.shared -- check_ptr --- dpopov --- 39890133552
+ipvs12.shared -- systemd services --- aakulov --- development
+ipvs3.shared -- Puppet certificate --- vbelchenko --- different environment
+ipvs3.shared -- check_ptr --- dpopov --- 39890133552
+ipvs3.shared -- systemd services --- aakulov --- development
+ipvs4.shared -- Puppet certificate --- vbelchenko --- different environment
+ipvs4.shared -- check_ptr --- dpopov --- 39890133552
+ipvs4.shared -- systemd services --- aakulov --- development
+ipvs6.shared -- check_ptr --- dpopov --- 39890133552
+ipvs6.shared -- systemd services --- aakulov --- development
+ipvs8.shared -- ipmi login --- aakulov --- development
+ipvs8.shared -- ipmi network settings --- aakulov --- development
+ipvs9.shared -- ipmi login --- aakulov --- development
+ipvs9.shared -- ipmi network settings --- aakulov --- development
+list1.mail -- ipmi network settings --- aakulov --- development
+mail1.archive -- ipmi network settings --- aakulov --- development
+mail1.archive -- systemd services --- aakulov --- development
+master1.puppet -- ipmi login --- aakulov --- development
+master1.puppet -- ipmi network settings --- aakulov --- development
+master1.puppet -- systemd services --- aakulov --- development
+master2.test.puppet -- systemd services --- aakulov --- development
+master3.puppet -- ipmi login --- aakulov --- development
+master3.puppet -- ipmi network settings --- aakulov --- development
+master3.puppet -- systemd services --- aakulov --- development
+master4.ac.shared -- ipmi network settings --- aakulov --- development
+master4.puppet -- ipmi network settings --- aakulov --- development
+master4.puppet -- systemd services --- aakulov --- development
+master5.ac.shared -- ipmi network settings --- aakulov --- development
+master5.puppet -- ipmi network settings --- aakulov --- development
+master5.puppet -- systemd services --- aakulov --- development
+master6.ac.shared -- ipmi network settings --- aakulov --- development
+master6.puppet -- ipmi network settings --- aakulov --- development
+master6.puppet -- systemd services --- aakulov --- development
+master7.puppet -- ipmi network settings --- aakulov --- development
+master7.puppet -- systemd services --- aakulov --- development
+mastername2.dns -- ipmi login --- aakulov --- development
+mastername2.dns -- ipmi network settings --- aakulov --- development
+mastername3.dns -- ipmi login --- aakulov --- development
+mastername3.dns -- ipmi network settings --- aakulov --- development
+noc1.hq.infra -- systemd services --- aakulov --- development
+noc2.hq.infra -- systemd services --- aakulov --- development
+node1.agent.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.agent.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.agent.public.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node1.agent.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.agent.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.agent.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.agent.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.agent.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node1.agent.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.agent.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.agent.test.vmetrics -- systemd services --- rgasanov --- 35213831516
+node1.agent.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node1.agent.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node1.agent.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node1.agent.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node1.agent.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node1.asterisk -- systemd services --- aakulov --- development
+node1.bgp.injector -- systemd services --- aakulov --- development
+node1.check-dhcp.mon -- systemd services --- aakulov --- development
+node1.cloud.nebula.backup -- ipmi login --- aakulov --- development
+node1.cloud.nebula.backup -- ipmi network settings --- vbelchenko --- development
+node1.cloud.nebula.backup -- systemd services --- aakulov --- development
+node1.db.ipkvm.dhcp.infra -- systemd services --- aakulov --- development
+node1.dbcluster -- ipmi login --- aakulov --- development
+node1.dbcluster -- ipmi network settings --- aakulov --- development
+node1.dbcluster -- systemd services --- aakulov --- development
+node1.dev.kube -- systemd services --- aakulov --- development
+node1.ftp.sorm -- ipmi network settings --- aakulov --- development
+node1.ftp.sorm -- systemd services --- aakulov --- development
+node1.gitlab.infra -- IO stat --- ddavudov --- zero
+node1.grafana.infra -- Host address --- rgasanov --- 35213831516
+node1.grafana.infra -- Kernel state --- rgasanov --- 35213831516
+node1.grafana.infra -- check_ptr --- rgasanov --- 35213831516
+node1.grafana.infra -- packages state --- rgasanov --- 35213831516
+node1.gw.infra -- systemd services --- aakulov --- development
+node1.insert.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.insert.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.insert.public.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node1.insert.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.insert.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.insert.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.insert.test.vmetrics -- Puppet last run --- rgasanov --- 35213831516
+node1.insert.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node1.insert.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.insert.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.insert.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node1.insert.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node1.insert.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node1.insert.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node1.insert.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node1.ipam.infra -- systemd services --- aakulov --- development
+node1.ipkvm.dhcp.infra -- systemd services --- aakulov --- development
+node1.kvm.cloud.nebula -- Firmware --- rmamedkhanov --- переписать пробники
+node1.kvm.cloud.nebula -- Kernel state --- vbelchenko --- development
+node1.kvm.cloud.nebula -- Puppet certificate --- vbelchenko --- different environment
+node1.kvm.cloud.nebula -- ipmi login --- aakulov --- development
+node1.kvm.cloud.nebula -- needrestart --- rmamedkhanov --- переписать пробники
+node1.kvm.cloud.nebula -- systemd services --- aakulov --- development
+node1.kvm.nebula -- ipmi login --- aakulov --- development
+node1.kvm.nebula -- ipmi network settings --- aakulov --- development
+node1.kvm.nebula -- systemd services --- aakulov --- development
+node1.kvm.ost.nebula -- ipmi login --- aakulov --- development
+node1.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node1.kvm.ost.nebula -- systemd services --- aakulov --- development
+node1.minio.ipam.infra -- systemd services --- aakulov --- development
+node1.openvpn.corp -- systemd services --- aakulov --- development
+node1.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node1.phpmyadmin.shared -- systemd services --- aakulov --- development
+node1.select.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.select.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.select.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.select.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.select.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.select.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.select.test.vmetrics -- Puppet last run --- rgasanov --- 35213831516
+node1.select.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node1.select.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.select.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.select.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node1.select.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node1.select.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node1.storage.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.storage.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.storage.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.storage.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.storage.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node1.storage.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node1.storage.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node1.storage.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node1.storage.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node1.storage.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node1.storage.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node1.storage.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node1.storage.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node1.storage.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node1.test.avdesk -- systemd services --- aakulov --- development
+node1.test.dbcluster -- corosync status --- rgasanov --- 30389618662
+node1.test.dbcluster -- needrestart --- rgasanov --- needrestart
+node1.test.dbcluster -- systemd services --- aakulov --- development
+node1.test.gitlab.infra -- systemd services --- aakulov --- development
+node1.test.ipam.infra -- Puppet environment --- aakulov --- development
+node1.test.ipam.infra -- systemd services --- aakulov --- development
+node1.test.kube -- systemd services --- aakulov --- development
+node1.test.kvm.cloud.nebula -- Network errors --- ddavudov --- zero
+node1.test.kvm.cloud.nebula -- VMs_segfaults --- vchernyshev --- test
+node1.test.kvm.cloud.nebula -- network PPS --- ddavudov --- zero
+node1.test.kvm.cloud.nebula -- systemd services --- aakulov --- development
+node1.test.kvm.nebula -- ipmi network settings --- aakulov --- development
+node1.test.kvm.nebula -- systemd services --- aakulov --- development
+node1.test.minio.ipam.infra -- systemd services --- aakulov --- development
+node1.test.phpmyadmin.shared -- systemd services --- aakulov --- development
+node1.test.proxy -- Puppet environment --- aakulov --- development
+node1.test.proxy -- systemd services --- aakulov --- development
+node1.test.ssldb.infra -- systemd services --- aakulov --- development
+node1.test.web.mail -- systemd services --- aakulov --- development
+node1.test.webftp.shared -- systemd services --- aakulov --- development
+node1.web.mail -- systemd services --- aakulov --- development
+node1.webftp.shared -- systemd services --- aakulov --- development
+node1.wiki.corp -- systemd services --- aakulov --- development
+node1.wikijs.corp -- corosync status --- aakulov --- development
+node1.wikijs.corp -- corosync status --- aakulov --- development
+node1.wikijs.corp -- drbd status --- aakulov --- development
+node1.wikijs.corp -- drbd status --- aakulov --- development
+node1.wikijs.corp -- needrestart --- aakulov --- development
+node1.wikijs.corp -- packages state --- aakulov --- development
+node1.wikijs.corp -- packages state --- aakulov --- development
+node1.win.lb -- ipmi network settings --- aakulov --- development
+node1.win.lb -- systemd services --- aakulov --- development
+node10.kvm.nebula -- ipmi network settings --- aakulov --- development
+node10.kvm.nebula -- systemd services --- aakulov --- development
+node11.kvm.nebula -- ipmi network settings --- aakulov --- development
+node11.kvm.nebula -- systemd services --- aakulov --- development
+node2.agent.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.agent.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.agent.public.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node2.agent.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.agent.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.agent.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.agent.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.agent.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node2.agent.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.agent.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.agent.test.vmetrics -- systemd services --- rgasanov --- 35213831516
+node2.agent.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node2.agent.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node2.agent.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node2.agent.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node2.asterisk -- systemd services --- aakulov --- development
+node2.bgp.injector -- systemd services --- aakulov --- development
+node2.cloud.nebula.backup -- ipmi login --- aakulov --- development
+node2.cloud.nebula.backup -- systemd services --- aakulov --- development
+node2.db.ipkvm.dhcp.infra -- systemd services --- aakulov --- development
+node2.dbcluster -- ipmi login --- aakulov --- development
+node2.dbcluster -- ipmi network settings --- aakulov --- development
+node2.dbcluster -- systemd services --- aakulov --- development
+node2.dev.kube -- systemd services --- aakulov --- development
+node2.grafana.infra -- Host address --- rgasanov --- 35213831516
+node2.grafana.infra -- Kernel state --- rgasanov --- 35213831516
+node2.grafana.infra -- check_ptr --- rgasanov --- 35213831516
+node2.grafana.infra -- needrestart --- rgasanov --- 35213831516
+node2.grafana.infra -- packages state --- rgasanov --- 35213831516
+node2.gw.infra -- systemd services --- aakulov --- development
+node2.insert.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.insert.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.insert.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.insert.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.insert.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.insert.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.insert.test.vmetrics -- Puppet last run --- rgasanov --- 35213831516
+node2.insert.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node2.insert.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.insert.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.insert.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node2.insert.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node2.insert.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node2.insert.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node2.insert.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node2.ipam.infra -- systemd services --- aakulov --- development
+node2.kvm.nebula -- ipmi login --- aakulov --- development
+node2.kvm.nebula -- ipmi network settings --- aakulov --- development
+node2.kvm.nebula -- systemd services --- aakulov --- development
+node2.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node2.kvm.ost.nebula -- systemd services --- aakulov --- development
+node2.minio.ipam.infra -- systemd services --- aakulov --- development
+node2.openvpn.corp -- systemd services --- aakulov --- development
+node2.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node2.phpmyadmin.shared -- systemd services --- aakulov --- development
+node2.select.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.select.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.select.public.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node2.select.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.select.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- Puppet certificate --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- Puppet last run --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.select.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.select.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node2.select.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node2.select.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node2.select.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node2.select.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node2.storage.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.storage.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.storage.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.storage.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- Puppet certificate --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- Puppet last run --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node2.storage.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node2.storage.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node2.storage.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node2.storage.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node2.storage.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node2.test.dbcluster -- corosync status --- rgasanov --- 30389618662
+node2.test.dbcluster -- needrestart --- rgasanov --- needrestart
+node2.test.dbcluster -- systemd services --- aakulov --- development
+node2.test.kube -- systemd services --- aakulov --- development
+node2.test.kvm.cloud.nebula -- VMs_segfaults --- vchernyshev --- test
+node2.test.kvm.cloud.nebula -- systemd services --- aakulov --- development
+node2.test.kvm.nebula -- CPU power --- aakulov --- development
+node2.test.kvm.nebula -- ipmi network settings --- aakulov --- development
+node2.test.kvm.nebula -- systemd services --- aakulov --- development
+node2.test.minio.ipam.infra -- systemd services --- aakulov --- development
+node2.test.phpmyadmin.shared -- systemd services --- aakulov --- development
+node2.test.proxy -- systemd services --- aakulov --- development
+node2.test.ssldb.infra -- systemd services --- aakulov --- development
+node2.test.web.mail -- systemd services --- aakulov --- development
+node2.test.webftp.shared -- systemd services --- aakulov --- development
+node2.web.mail -- systemd services --- aakulov --- development
+node2.webftp.shared -- systemd services --- aakulov --- development
+node2.wiki.corp -- systemd services --- aakulov --- development
+node2.wikijs.corp -- drbd status --- aakulov --- development
+node2.win.lb -- ipmi network settings --- aakulov --- development
+node2.win.lb -- systemd services --- aakulov --- development
+node3.cloud.nebula.backup -- ipmi login --- aakulov --- development
+node3.cloud.nebula.backup -- systemd services --- aakulov --- development
+node3.db.ipkvm.dhcp.infra -- systemd services --- aakulov --- development
+node3.dbcluster -- ipmi login --- aakulov --- development
+node3.dbcluster -- ipmi network settings --- aakulov --- development
+node3.dbcluster -- needrestart --- rgasanov --- needrestart
+node3.dbcluster -- systemd services --- aakulov --- development
+node3.dev.kube -- systemd services --- aakulov --- development
+node3.gluster -- ipmi login --- aakulov --- development
+node3.gluster -- ipmi network settings --- aakulov --- development
+node3.gluster -- systemd services --- aakulov --- development
+node3.ipam.infra -- systemd services --- aakulov --- development
+node3.kvm.cloud.nebula -- Firmware --- rmamedkhanov --- переписать пробники
+node3.kvm.cloud.nebula -- Puppet certificate --- vbelchenko --- different environment
+node3.kvm.cloud.nebula -- check_ptr --- rgasanov --- #39440728195
+node3.kvm.cloud.nebula -- ipmi login --- aakulov --- development
+node3.kvm.cloud.nebula -- needrestart --- rmamedkhanov --- переписать пробники
+node3.kvm.cloud.nebula -- systemd services --- aakulov --- development
+node3.kvm.nebula -- IO stat --- ddavudov --- zero
+node3.kvm.nebula -- ipmi login --- aakulov --- development
+node3.kvm.nebula -- ipmi network settings --- aakulov --- development
+node3.kvm.nebula -- systemd services --- aakulov --- development
+node3.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node3.kvm.ost.nebula -- systemd services --- aakulov --- development
+node3.minio.ipam.infra -- systemd services --- aakulov --- development
+node3.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node3.phpmyadmin.shared -- systemd services --- aakulov --- development
+node3.proxy -- systemd services --- aakulov --- development
+node3.storage.public.vmetrics -- Host address --- rgasanov --- 35213831516
+node3.storage.public.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node3.storage.public.vmetrics -- needrestart --- rgasanov --- 35213831516
+node3.storage.public.vmetrics -- packages state --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- Host address --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- Kernel state --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- Puppet certificate --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- Puppet last run --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- check_ptr --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- needrestart --- rgasanov --- 35213831516
+node3.storage.test.vmetrics -- packages state --- rgasanov --- 35213831516
+node3.storage.vmetrics.infra -- Host address --- rgasanov --- 35213831516
+node3.storage.vmetrics.infra -- Kernel state --- rgasanov --- 35213831516
+node3.storage.vmetrics.infra -- check_ptr --- rgasanov --- 35213831516
+node3.storage.vmetrics.infra -- needrestart --- rgasanov --- 35213831516
+node3.storage.vmetrics.infra -- packages state --- rgasanov --- 35213831516
+node3.test.dbcluster -- corosync status --- rgasanov --- 30389618662
+node3.test.dbcluster -- needrestart --- rgasanov --- needrestart
+node3.test.dbcluster -- systemd services --- aakulov --- development
+node3.test.kube -- systemd services --- aakulov --- development
+node3.test.kvm.nebula -- ipmi login --- aakulov --- development
+node3.test.kvm.nebula -- ipmi network settings --- aakulov --- development
+node3.test.kvm.nebula -- systemd services --- aakulov --- development
+node3.test.minio.ipam.infra -- systemd services --- aakulov --- development
+node3.test.phpmyadmin.shared -- systemd services --- aakulov --- development
+node3.web.mail -- systemd services --- aakulov --- development
+node4.cloud.nebula.backup -- ipmi login --- aakulov --- development
+node4.cloud.nebula.backup -- systemd services --- aakulov --- development
+node4.gluster -- ipmi login --- aakulov --- development
+node4.gluster -- ipmi network settings --- aakulov --- development
+node4.gluster -- systemd services --- aakulov --- development
+node4.kvm.cloud.nebula -- Firmware --- rmamedkhanov --- переписать пробники
+node4.kvm.cloud.nebula -- Host address --- rgasanov --- 34907240208
+node4.kvm.cloud.nebula -- Kernel state --- rgasanov --- 34907240208
+node4.kvm.cloud.nebula -- Puppet certificate --- vbelchenko --- different environment
+node4.kvm.cloud.nebula -- check_ptr --- rgasanov --- 34907240208
+node4.kvm.cloud.nebula -- ipmi login --- aakulov --- development
+node4.kvm.cloud.nebula -- needrestart --- rmamedkhanov --- переписать пробники
+node4.kvm.cloud.nebula -- packages state --- rgasanov --- 34907240208
+node4.kvm.cloud.nebula -- systemd services --- aakulov --- development
+node4.kvm.nebula -- ipmi login --- aakulov --- development
+node4.kvm.nebula -- ipmi network settings --- aakulov --- development
+node4.kvm.nebula -- systemd services --- aakulov --- development
+node4.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node4.kvm.ost.nebula -- systemd services --- aakulov --- development
+node4.minio.ipam.infra -- systemd services --- aakulov --- development
+node4.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node4.proxy -- systemd services --- aakulov --- development
+node4.q.relay.shared -- ipmi login --- aakulov --- development
+node4.q.relay.shared -- ipmi network settings --- aakulov --- development
+node4.test.kvm.nebula -- ipmi network settings --- aakulov --- development
+node4.test.kvm.nebula -- systemd services --- aakulov --- development
+node4.test.minio.ipam.infra -- systemd services --- aakulov --- development
+node4.web.mail -- systemd services --- aakulov --- development
+node5.kvm.nebula -- ipmi login --- aakulov --- development
+node5.kvm.nebula -- ipmi network settings --- aakulov --- development
+node5.kvm.nebula -- systemd services --- aakulov --- development
+node5.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node5.kvm.ost.nebula -- systemd services --- aakulov --- development
+node5.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node5.test.kvm.nebula -- CPU power --- aakulov --- development
+node5.test.kvm.nebula -- ipmi network settings --- aakulov --- development
+node5.test.kvm.nebula -- systemd services --- aakulov --- development
+node6.kvm.nebula -- ipmi login --- aakulov --- development
+node6.kvm.nebula -- ipmi network settings --- aakulov --- development
+node6.kvm.nebula -- systemd services --- aakulov --- development
+node6.kvm.ost.nebula -- ipmi login --- aakulov --- development
+node6.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node6.kvm.ost.nebula -- systemd services --- aakulov --- development
+node6.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node6.test.kvm.nebula -- ipmi network settings --- aakulov --- development
+node6.test.kvm.nebula -- systemd services --- aakulov --- development
+node7.kvm.nebula -- ipmi network settings --- aakulov --- development
+node7.kvm.nebula -- systemd services --- aakulov --- development
+node7.kvm.ost.nebula -- CPU temperature --- dpopov --- 38773947907
+node7.kvm.ost.nebula -- ipmi login --- aakulov --- development
+node7.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node7.kvm.ost.nebula -- systemd services --- aakulov --- development
+node7.ost.worker.icinga.mon -- systemd services --- aakulov --- development
+node8.kvm.nebula -- ipmi network settings --- aakulov --- development
+node8.kvm.nebula -- systemd services --- aakulov --- development
+node8.kvm.ost.nebula -- ipmi login --- aakulov --- development
+node8.kvm.ost.nebula -- ipmi network settings --- aakulov --- development
+node8.kvm.ost.nebula -- systemd services --- aakulov --- development
+ntp3.infra -- ntp time offset --- ddavudov --- zero
+ntp4.infra -- ntp time offset --- ddavudov --- zero
+phone6 -- systemd services --- aakulov --- development
+phone7 -- systemd services --- aakulov --- development
+power1.dev.dns -- Puppet certificate --- vbelchenko ---  puppet выключен, ручные конфиги
+power1.dev.dns -- Puppet last run --- vbelchenko ---  puppet выключен, ручные конфиги
+power2.dns -- ipmi login --- aakulov --- development
+power2.dns -- ipmi network settings --- aakulov --- development
+power3.dns -- ipmi login --- aakulov --- development
+power3.dns -- ipmi network settings --- aakulov --- development
+power5.dns -- ipmi login --- aakulov --- development
+power5.dns -- ipmi network settings --- aakulov --- development
+power6.dns -- ipmi login --- aakulov --- development
+power6.dns -- ipmi network settings --- aakulov --- development
+pro11.hs.shared -- ipmi login --- aakulov --- development
+pro11.hs.shared -- ipmi login --- aakulov --- development
+pro11.hs.shared -- ipmi network settings --- aakulov --- development
+pro11.hs.shared -- ipmi network settings --- aakulov --- development
+pro23.hs.shared -- ipmi network settings --- aakulov --- development
+pro25.hs.shared -- ipmi network settings --- aakulov --- development
+pro26.hs.shared -- ipmi network settings --- aakulov --- development
+pro27.hs.shared -- ipmi network settings --- aakulov --- development
+pro31.hs.shared -- ipmi network settings --- aakulov --- development
+pro32.hs.shared -- ipmi network settings --- aakulov --- development
+pro34.hs.shared -- ipmi network settings --- aakulov --- development
+pro35.hs.shared -- ipmi network settings --- aakulov --- development
+pro40.hs.shared -- ipmi network settings --- aakulov --- development
+pro41.hs.shared -- ipmi network settings --- aakulov --- development
+pro42.hs.shared -- ipmi network settings --- aakulov --- development
+pro42.hs.shared -- needrestart --- rgasanov --- needrestart
+pro43.hs.shared -- ipmi network settings --- aakulov --- development
+pro44.hs.shared -- ipmi network settings --- aakulov --- development
+pro45.hs.shared -- ipmi network settings --- aakulov --- development
+pro46.hs.shared -- ipmi network settings --- aakulov --- development
+pro46.hs.shared -- needrestart --- rgasanov --- needrestart
+pro46.hs.shared -- systemd services --- aakulov --- development
+pro47.hs.shared -- ipmi network settings --- aakulov --- development
+pro48.hs.shared -- ipmi network settings --- aakulov --- development
+pro49.hs.shared -- ipmi network settings --- aakulov --- development
+pro52.hs.shared -- ipmi network settings --- aakulov --- development
+pro52.hs.shared -- systemd services --- aakulov --- development
+pro60.hs.shared -- ipmi network settings --- aakulov --- development
+pro60.hs.shared -- needrestart --- rgasanov --- needrestart
+pro60.hs.shared -- systemd services --- aakulov --- development
+pro64.hs.shared -- ipmi network settings --- aakulov --- development
+pro67.hs.shared -- IO stat --- ddavudov --- zero
+pro67.hs.shared -- ipmi network settings --- aakulov --- development
+pro67.hs.shared -- needrestart --- rgasanov --- needrestart
+pro67.hs.shared -- systemd services --- aakulov --- development
+pro68.hs.shared -- ipmi network settings --- aakulov --- development
+pro68.hs.shared -- needrestart --- rgasanov --- needrestart
+pro68.hs.shared -- systemd services --- aakulov --- development
+proxy1.whois -- systemd services --- aakulov --- development
+rdap1.bill -- systemd services --- aakulov --- development
+red1.hs.shared -- ipmi network settings --- aakulov --- development
+red1.hs.shared -- needrestart --- rgasanov --- needrestart
+red1.hs.shared -- systemd services --- aakulov --- development
+red10.hs.shared -- ipmi network settings --- aakulov --- development
+red10.hs.shared -- needrestart --- rgasanov --- needrestart
+red10.hs.shared -- systemd services --- aakulov --- development
+red11.hs.shared -- ipmi network settings --- aakulov --- development
+red11.hs.shared -- systemd services --- aakulov --- development
+red12.hs.shared -- ipmi network settings --- aakulov --- development
+red12.hs.shared -- systemd services --- aakulov --- development
+red13.hs.shared -- ipmi network settings --- aakulov --- development
+red13.hs.shared -- systemd services --- aakulov --- development
+red14.hs.shared -- ipmi network settings --- aakulov --- development
+red14.hs.shared -- systemd services --- aakulov --- development
+red15.hs.shared -- needrestart --- rgasanov --- needrestart
+red15.hs.shared -- systemd services --- aakulov --- development
+red16.hs.shared -- systemd services --- aakulov --- development
+red17.hs.shared -- systemd services --- aakulov --- development
+red18.hs.shared -- systemd services --- aakulov --- development
+red2.hs.shared -- ipmi network settings --- aakulov --- development
+red2.hs.shared -- systemd services --- aakulov --- development
+red20.hs.shared -- needrestart --- rgasanov --- needrestart
+red3.hs.shared -- ipmi network settings --- aakulov --- development
+red3.hs.shared -- systemd services --- aakulov --- development
+red4.hs.shared -- ipmi network settings --- aakulov --- development
+red4.hs.shared -- systemd services --- aakulov --- development
+red5.hs.shared -- ipmi network settings --- aakulov --- development
+red5.hs.shared -- systemd services --- aakulov --- development
+red6.hs.shared -- ipmi network settings --- aakulov --- development
+red6.hs.shared -- needrestart --- rgasanov --- needrestart
+red6.hs.shared -- systemd services --- aakulov --- development
+red7.hs.shared -- ipmi network settings --- aakulov --- development
+red7.hs.shared -- needrestart --- rgasanov --- needrestart
+red7.hs.shared -- systemd services --- aakulov --- development
+red8.hs.shared -- ipmi network settings --- aakulov --- development
+red8.hs.shared -- systemd services --- aakulov --- development
+red9.hs.shared -- ipmi network settings --- aakulov --- development
+red9.hs.shared -- systemd services --- aakulov --- development
+redmine1.corp -- systemd services --- aakulov --- development
+redmine1.dev.corp -- systemd services --- aakulov --- development
+redmine2.corp -- systemd services --- aakulov --- development
+redmine2.dev.corp -- systemd services --- aakulov --- development
+relay2.infra -- ipmi login --- aakulov --- development
+relay2.infra -- ipmi network settings --- aakulov --- development
+relay3.infra -- ipmi network settings --- aakulov --- development
+relay3.shared -- ipmi login --- aakulov --- development
+relay4.mail -- ipmi login --- aakulov --- development
+relay5.mail -- ipmi login --- aakulov --- development
+relay5.shared -- ipmi login --- aakulov --- development
+relay6.mail -- ipmi login --- aakulov --- development
+relay6.shared -- ipmi login --- aakulov --- development
+repo1.virt -- ipmi network settings --- aakulov --- development
+rocketchat1.corp -- systemd services --- aakulov --- development
+rocketchat1.test.corp -- systemd services --- aakulov --- development
+rocketchat2.corp -- systemd services --- aakulov --- development
+rocketchat2.test.corp -- systemd services --- aakulov --- development
+rocketchat3.corp -- systemd services --- aakulov --- development
+scm1.puppet -- systemd services --- aakulov --- development
+scm1.test.puppet -- systemd services --- aakulov --- development
+scm2.puppet -- systemd services --- aakulov --- development
+scm2.test.puppet -- systemd services --- aakulov --- development
+sdbe11.hs.shared -- ipmi network settings --- aakulov --- development
+sdbe8.hs.shared -- ipmi login --- aakulov --- development
+sdbe8.hs.shared -- ipmi network settings --- aakulov --- development
+sdbe9.hs.shared -- ipmi login --- aakulov --- development
+sdbe9.hs.shared -- ipmi network settings --- aakulov --- development
+sgen10.hs.shared -- ipmi network settings --- aakulov --- development
+sgen7.hs.shared -- ipmi network settings --- aakulov --- development
+sgen8.hs.shared -- ipmi network settings --- aakulov --- development
+shared1.xen.virt -- ipmi login --- aakulov --- development
+shared1.xen.virt -- ipmi network settings --- aakulov --- development
+shared2.xen.virt -- ipmi login --- aakulov --- development
+shared2.xen.virt -- ipmi network settings --- aakulov --- development
+shared3.xen.virt -- ipmi login --- aakulov --- development
+shared3.xen.virt -- ipmi network settings --- aakulov --- development
+shared4.xen.virt -- ipmi login --- aakulov --- development
+shared4.xen.virt -- ipmi network settings --- aakulov --- development
+shared5.xen.virt -- ipmi login --- aakulov --- development
+shared7.xen.virt -- ipmi login --- aakulov --- development
+shared7.xen.virt -- ipmi network settings --- aakulov --- development
+shared8.xen.virt -- ipmi login --- aakulov --- development
+sl15.ac.shared -- ddos --- alabzina --- downtime
+sl15.ac.shared -- ipmi network settings --- aakulov --- development
+sl16.ac.shared -- ddos --- alabzina --- downtime
+sl16.ac.shared -- ddos --- alabzina --- downtime
+sl16.ac.shared -- ipmi network settings --- aakulov --- development
+sl17.ac.shared -- ddos --- szhilin --- ddos
+sl17.ac.shared -- ipmi network settings --- aakulov --- development
+sl18.ac.shared -- ddos --- alabzina --- одного пробника достаточно
+sl18.ac.shared -- ipmi network settings --- aakulov --- development
+sl19.ac.shared -- ddos --- alabzina --- одного пробника достаточно
+sl19.ac.shared -- ipmi network settings --- aakulov --- development
+sl20.ac.shared -- ddos --- szhilin --- ddos
+sl20.ac.shared -- ipmi network settings --- aakulov --- development
+sl21.ac.shared -- ddos --- szhilin --- ddos
+sl21.ac.shared -- ipmi network settings --- aakulov --- development
+sl22.ac.shared -- ddos --- szhilin --- ddos
+sl22.ac.shared -- ipmi network settings --- aakulov --- development
+sl23.ac.shared -- ddos --- rgasanov --- ddos
+sl23.ac.shared -- ipmi network settings --- aakulov --- development
+sl24.ac.shared -- ddos --- rgasanov --- один пробник есть
+spro2.hs.shared -- ipmi network settings --- aakulov --- development
+sslrep2.bill -- systemd services --- aakulov --- development
+sslrep2.test.bill -- systemd services --- aakulov --- development
+sso100.hs.shared -- ipmi network settings --- aakulov --- development
+sso108.hs.shared -- ipmi network settings --- aakulov --- development
+sso110.hs.shared -- ipmi network settings --- aakulov --- development
+sso110.hs.shared -- needrestart --- rgasanov --- needrestart
+sso110.hs.shared -- systemd services --- aakulov --- development
+sso121.hs.shared -- Memory --- ddavudov --- zero
+sso121.hs.shared -- ipmi network settings --- aakulov --- development
+sso121.hs.shared -- systemd services --- aakulov --- development
+sso129.hs.shared -- Memory --- ddavudov --- zero
+sso129.hs.shared -- ipmi network settings --- aakulov --- development
+sso129.hs.shared -- needrestart --- rgasanov --- needrestart
+sso129.hs.shared -- systemd services --- aakulov --- development
+sso131.hs.shared -- Memory --- ddavudov --- zero
+sso131.hs.shared -- ipmi network settings --- aakulov --- development
+sso131.hs.shared -- systemd services --- aakulov --- development
+sso136.hs.shared -- ipmi network settings --- aakulov --- development
+sso136.hs.shared -- systemd services --- aakulov --- development
+sso139.hs.shared -- Memory --- ddavudov --- zero
+sso139.hs.shared -- ipmi network settings --- aakulov --- development
+sso139.hs.shared -- needrestart --- rgasanov --- needrestart
+sso139.hs.shared -- systemd services --- aakulov --- development
+sso142.hs.shared -- ipmi network settings --- aakulov --- development
+sso142.hs.shared -- systemd services --- aakulov --- development
+sso145.hs.shared -- ipmi network settings --- aakulov --- development
+sso145.hs.shared -- systemd services --- aakulov --- development
+sso149.hs.shared -- Memory --- ddavudov --- zero
+sso149.hs.shared -- ipmi network settings --- aakulov --- development
+sso149.hs.shared -- systemd services --- aakulov --- development
+sso200.hs.shared -- ipmi network settings --- aakulov --- development
+sso200.hs.shared -- systemd services --- aakulov --- development
+sso201.hs.shared -- ipmi network settings --- aakulov --- development
+sso201.hs.shared -- systemd services --- aakulov --- development
+sso202.hs.shared -- ipmi network settings --- aakulov --- development
+sso202.hs.shared -- systemd services --- aakulov --- development
+sso203.hs.shared -- needrestart --- rgasanov --- needrestart
+sso203.hs.shared -- systemd services --- aakulov --- development
+sso204.hs.shared -- needrestart --- rgasanov --- needrestart
+sso204.hs.shared -- systemd services --- aakulov --- development
+sso205.hs.shared -- systemd services --- aakulov --- development
+sso206.hs.shared -- systemd services --- aakulov --- development
+sso207.hs.shared -- systemd services --- rgasanov --- development
+sso47.hs.shared -- ipmi network settings --- aakulov --- development
+sso49.hs.shared -- ipmi network settings --- aakulov --- development
+sso50.hs.shared -- ipmi network settings --- aakulov --- development
+sso51.hs.shared -- ipmi network settings --- aakulov --- development
+sso53.hs.shared -- ipmi network settings --- aakulov --- development
+sso57.hs.shared -- ipmi network settings --- aakulov --- development
+sso63.hs.shared -- ipmi network settings --- aakulov --- development
+sso64.hs.shared -- ipmi network settings --- aakulov --- development
+sso65.hs.shared -- ipmi network settings --- aakulov --- development
+sso67.hs.shared -- ipmi network settings --- aakulov --- development
+sso69.hs.shared -- ipmi network settings --- aakulov --- development
+sso72.hs.shared -- ipmi network settings --- aakulov --- development
+sso74.hs.shared -- ipmi network settings --- aakulov --- development
+sso81.hs.shared -- ipmi network settings --- aakulov --- development
+sso83.hs.shared -- ipmi network settings --- aakulov --- development
+sso92.hs.shared -- ipmi network settings --- aakulov --- development
+sso93.hs.shared -- ipmi network settings --- aakulov --- development
+sso95.hs.shared -- ipmi network settings --- aakulov --- development
+sso97.hs.shared -- ipmi network settings --- aakulov --- development
+sst100.hs.shared -- ipmi network settings --- aakulov --- development
+sst101.hs.shared -- ipmi network settings --- aakulov --- development
+sst102.hs.shared -- ipmi network settings --- aakulov --- development
+sst109.hs.shared -- ipmi network settings --- aakulov --- development
+sst111.hs.shared -- ipmi network settings --- aakulov --- development
+sst115.hs.shared -- ipmi network settings --- aakulov --- development
+sst125.hs.shared -- ipmi network settings --- aakulov --- development
+sst125.hs.shared -- systemd services --- aakulov --- development
+sst126.hs.shared -- ipmi network settings --- aakulov --- development
+sst129.hs.shared -- ipmi network settings --- aakulov --- development
+sst132.hs.shared -- ipmi network settings --- aakulov --- development
+sst134.hs.shared -- ipmi network settings --- aakulov --- development
+sst135.hs.shared -- ipmi network settings --- aakulov --- development
+sst136.hs.shared -- ipmi network settings --- aakulov --- development
+sst137.hs.shared -- ipmi network settings --- aakulov --- development
+sst143.hs.shared -- ipmi network settings --- aakulov --- development
+sst146.hs.shared -- ipmi network settings --- aakulov --- development
+sst149.hs.shared -- ipmi network settings --- aakulov --- development
+sst153.hs.shared -- ipmi network settings --- aakulov --- development
+sst154.hs.shared -- ipmi network settings --- aakulov --- development
+sst161.hs.shared -- ipmi network settings --- aakulov --- development
+sst162.hs.shared -- ipmi network settings --- aakulov --- development
+sst165.hs.shared -- ipmi network settings --- aakulov --- development
+sst168.hs.shared -- ipmi network settings --- aakulov --- development
+sst201.hs.shared -- ipmi network settings --- aakulov --- development
+sst201.hs.shared -- systemd services --- aakulov --- development
+sst202.hs.shared -- ipmi network settings --- aakulov --- development
+sst202.hs.shared -- systemd services --- aakulov --- development
+sst205.hs.shared -- Memory --- ddavudov --- zero
+sst205.hs.shared -- ipmi network settings --- aakulov --- development
+sst205.hs.shared -- needrestart --- rgasanov --- needrestart
+sst205.hs.shared -- systemd services --- aakulov --- development
+sst207.hs.shared -- ipmi network settings --- aakulov --- development
+sst207.hs.shared -- systemd services --- aakulov --- development
+sst208.hs.shared -- Memory --- ddavudov --- zero
+sst208.hs.shared -- ipmi network settings --- aakulov --- development
+sst208.hs.shared -- systemd services --- aakulov --- development
+sst209.hs.shared -- Memory --- ddavudov --- zero
+sst209.hs.shared -- ipmi network settings --- aakulov --- development
+sst209.hs.shared -- needrestart --- rgasanov --- needrestart
+sst209.hs.shared -- systemd services --- aakulov --- development
+sst210.hs.shared -- Memory --- ddavudov --- zero
+sst210.hs.shared -- ipmi network settings --- aakulov --- development
+sst210.hs.shared -- systemd services --- aakulov --- development
+sst211.hs.shared -- ipmi network settings --- aakulov --- development
+sst211.hs.shared -- systemd services --- aakulov --- development
+sst214.hs.shared -- Memory --- ddavudov --- zero
+sst214.hs.shared -- ipmi network settings --- aakulov --- development
+sst214.hs.shared -- systemd services --- aakulov --- development
+sst215.hs.shared -- Memory --- ddavudov --- zero
+sst215.hs.shared -- ipmi network settings --- aakulov --- development
+sst215.hs.shared -- systemd services --- aakulov --- development
+sst217.hs.shared -- ipmi network settings --- aakulov --- development
+sst217.hs.shared -- systemd services --- aakulov --- development
+sst218.hs.shared -- Memory --- ddavudov --- zero
+sst218.hs.shared -- ipmi network settings --- aakulov --- development
+sst218.hs.shared -- systemd services --- aakulov --- development
+sst219.hs.shared -- Memory --- ddavudov --- zero
+sst219.hs.shared -- ipmi network settings --- aakulov --- development
+sst219.hs.shared -- systemd services --- aakulov --- development
+sst220.hs.shared -- ipmi network settings --- aakulov --- development
+sst220.hs.shared -- needrestart --- rgasanov --- needrestart
+sst220.hs.shared -- systemd services --- aakulov --- development
+sst221.hs.shared -- ipmi network settings --- aakulov --- development
+sst221.hs.shared -- needrestart --- rgasanov --- needrestart
+sst221.hs.shared -- systemd services --- aakulov --- development
+sst222.hs.shared -- ipmi network settings --- aakulov --- development
+sst222.hs.shared -- systemd services --- aakulov --- development
+sst223.hs.shared -- Memory --- ddavudov --- zero
+sst223.hs.shared -- ipmi network settings --- aakulov --- development
+sst223.hs.shared -- systemd services --- aakulov --- development
+sst224.hs.shared -- ipmi network settings --- aakulov --- development
+sst224.hs.shared -- systemd services --- aakulov --- development
+sst226.hs.shared -- ipmi network settings --- aakulov --- development
+sst226.hs.shared -- needrestart --- rgasanov --- needrestart
+sst226.hs.shared -- systemd services --- aakulov --- development
+sst227.hs.shared -- ipmi network settings --- aakulov --- development
+sst227.hs.shared -- needrestart --- rgasanov --- needrestart
+sst227.hs.shared -- systemd services --- aakulov --- development
+sst228.hs.shared -- ipmi network settings --- aakulov --- development
+sst228.hs.shared -- systemd services --- aakulov --- development
+sst229.hs.shared -- IO stat --- ddavudov --- zero
+sst229.hs.shared -- ipmi network settings --- aakulov --- development
+sst229.hs.shared -- needrestart --- rgasanov --- needrestart
+sst229.hs.shared -- systemd services --- aakulov --- development
+sst230.hs.shared -- ipmi network settings --- aakulov --- development
+sst230.hs.shared -- systemd services --- aakulov --- development
+sst290.hs.shared -- ipmi network settings --- aakulov --- development
+sst290.hs.shared -- needrestart --- rgasanov --- needrestart
+sst290.hs.shared -- systemd services --- aakulov --- development
+sst300.hs.shared -- ipmi network settings --- aakulov --- development
+sst300.hs.shared -- needrestart --- rgasanov --- needrestart
+sst300.hs.shared -- systemd services --- aakulov --- development
+sst301.hs.shared -- ipmi network settings --- aakulov --- development
+sst301.hs.shared -- systemd services --- aakulov --- development
+sst302.hs.shared -- ipmi network settings --- aakulov --- development
+sst302.hs.shared -- systemd services --- aakulov --- development
+sst303.hs.shared -- needrestart --- rgasanov --- needrestart
+sst303.hs.shared -- systemd services --- aakulov --- development
+sst304.hs.shared -- systemd services --- aakulov --- development
+sst305.hs.shared -- needrestart --- rgasanov --- needrestart
+sst305.hs.shared -- systemd services --- aakulov --- development
+sst306.hs.shared -- systemd services --- aakulov --- development
+sst307.hs.shared -- systemd services --- aakulov --- development
+sst308.hs.shared -- systemd services --- rgasanov --- development
+sst309.hs.shared -- systemd services --- rgasanov --- development
+sst311.hs.shared -- systemd services --- rgasanov --- development
+sst312.hs.shared -- systemd services --- rgasanov --- development
+sst66.hs.shared -- ipmi network settings --- aakulov --- development
+sst67.hs.shared -- ipmi network settings --- aakulov --- development
+sst69.hs.shared -- ipmi network settings --- aakulov --- development
+sst70.hs.shared -- ipmi network settings --- aakulov --- development
+sst71.hs.shared -- ipmi network settings --- aakulov --- development
+sst72.hs.shared -- ipmi network settings --- aakulov --- development
+sst79.hs.shared -- ipmi network settings --- aakulov --- development
+sst80.hs.shared -- ipmi network settings --- aakulov --- development
+sst82.hs.shared -- ipmi network settings --- aakulov --- development
+sst86.hs.shared -- ipmi network settings --- aakulov --- development
+sst87.hs.shared -- ipmi network settings --- aakulov --- development
+sst88.hs.shared -- ipmi network settings --- aakulov --- development
+sst89.hs.shared -- ipmi network settings --- aakulov --- development
+sst90.hs.shared -- ipmi network settings --- aakulov --- development
+sst92.hs.shared -- ipmi network settings --- aakulov --- development
+sst93.hs.shared -- ipmi network settings --- aakulov --- development
+sst95.hs.shared -- ipmi network settings --- aakulov --- development
+sst98.hs.shared -- ipmi network settings --- aakulov --- development
+sst99.hs.shared -- Swap --- ddavudov --- zero
+sst99.hs.shared -- ipmi network settings --- aakulov --- development
+sst99.hs.shared -- needrestart --- rgasanov --- needrestart
+sst99.hs.shared -- systemd services --- aakulov --- development
+storage1.bill.backup -- ipmi login --- aakulov --- development
+storage1.bill.backup -- ipmi network settings --- aakulov --- development
+storage1.bill.backup -- systemd services --- aakulov --- development
+storage1.infra.backup -- ipmi login --- aakulov --- development
+storage1.infra.backup -- ipmi network settings --- aakulov --- development
+storage1.mail.backup -- ipmi login --- aakulov --- development
+storage1.mail.backup -- ipmi network settings --- aakulov --- development
+storage10.shared.backup -- ipmi login --- aakulov --- development
+storage10.shared.backup -- ipmi network settings --- aakulov --- development
+storage10.shared.backup -- network PPS --- asazonov --- check
+storage11.shared.backup -- ipmi login --- aakulov --- development
+storage11.shared.backup -- ipmi network settings --- aakulov --- development
+storage12.shared.backup -- ipmi login --- aakulov --- development
+storage12.shared.backup -- ipmi network settings --- aakulov --- development
+storage13.shared.backup -- ipmi login --- aakulov --- development
+storage13.shared.backup -- ipmi network settings --- aakulov --- development
+storage14.shared.backup -- ipmi login --- aakulov --- development
+storage14.shared.backup -- ipmi network settings --- aakulov --- development
+storage15.shared.backup -- ipmi network settings --- aakulov --- development
+storage2.infra.backup -- ipmi login --- aakulov --- development
+storage2.infra.backup -- ipmi network settings --- aakulov --- development
+storage2.infra.backup -- systemd services --- aakulov --- development
+storage2.mail.backup -- ipmi login --- aakulov --- development
+storage2.mail.backup -- ipmi network settings --- aakulov --- development
+storage2.shared.backup -- ipmi login --- aakulov --- development
+storage2.shared.backup -- ipmi network settings --- aakulov --- development
+storage3.mail.backup -- ipmi login --- aakulov --- development
+storage3.mail.backup -- ipmi network settings --- aakulov --- development
+storage3.mail.backup -- systemd services --- aakulov --- development
+storage3.shared.backup -- ipmi login --- aakulov --- development
+storage3.shared.backup -- ipmi network settings --- aakulov --- development
+storage3.shared.backup -- needrestart --- rgasanov --- needrestart
+storage3.shared.backup -- systemd services --- aakulov --- development
+storage4.shared.backup -- ipmi login --- aakulov --- development
+storage4.shared.backup -- ipmi network settings --- aakulov --- development
+storage5.shared.backup -- ipmi login --- aakulov --- development
+storage5.shared.backup -- ipmi network settings --- aakulov --- development
+storage6.shared.backup -- ipmi login --- aakulov --- development
+storage6.shared.backup -- ipmi network settings --- aakulov --- development
+storage7.shared.backup -- ipmi login --- aakulov --- development
+storage7.shared.backup -- ipmi network settings --- aakulov --- development
+storage8.shared.backup -- ipmi login --- aakulov --- development
+storage8.shared.backup -- ipmi network settings --- aakulov --- development
+storage8.shared.backup -- needrestart --- rgasanov --- needrestart
+storage8.shared.backup -- systemd services --- aakulov --- development
+storage9.shared.backup -- ipmi login --- aakulov --- development
+storage9.shared.backup -- ipmi network settings --- aakulov --- development
+sup1.hq.infra -- ipmi network settings --- aakulov --- development
+svn1.vcs.infra -- ipmi login --- aakulov --- development
+svn1.vcs.infra -- ipmi network settings --- aakulov --- development
+test1.app.ofd -- systemd services --- aakulov --- development
+test1.be.mail -- ipmi network settings --- aakulov --- development
+test1.be.mail -- systemd services --- aakulov --- development
+test1.ctrl.cloud.nebula -- systemd services --- aakulov --- development
+test1.db.ofd -- systemd services --- aakulov --- development
+test1.dss.ofd -- systemd services --- aakulov --- development
+test2.ctrl.cloud.nebula -- systemd services --- aakulov --- development
+test2.db.ofd -- systemd services --- aakulov --- development
+test2.dss.ofd -- systemd services --- aakulov --- development
+test3.ctrl.cloud.nebula -- systemd services --- aakulov --- development
+test5.hs.shared -- ipmi login --- aakulov --- development
+test5.hs.shared -- ipmi network settings --- aakulov --- development
+test5.hs.shared -- systemd services --- aakulov --- development
+test7.hs.shared -- ipmi network settings --- aakulov --- development
+test7.hs.shared -- systemd services --- aakulov --- development
+test8.hs.shared -- ipmi network settings --- aakulov --- development
+test8.hs.shared -- systemd services --- aakulov --- development
+test9.hs.shared -- Raid_Cache --- rgasanov --- тестовый пробник
+test9.hs.shared -- systemd services --- aakulov --- development
+tfs.team -- Disk Speed --- asazonov --- check
+tfs.team -- Free memory --- asazonov --- check
+tmp.mon -- systemd services --- aakulov --- development
+wdb5.shared -- ipmi login --- aakulov --- development
+wdb5.shared -- ipmi network settings --- aakulov --- development
+wdb6.hs.shared -- ipmi network settings --- aakulov --- development
+wdb6.hs.shared -- systemd services --- aakulov --- development
+wdb7.hs.shared -- ipmi network settings --- aakulov --- development
+wdb7.hs.shared -- systemd services --- aakulov --- development
+web1.old.otrs -- ipmi network settings --- aakulov --- development
+web2.mail -- ipmi login --- aakulov --- development
+web2.mail -- ipmi network settings --- aakulov --- development
+web3.mail -- ipmi login --- aakulov --- development
+web3.mail -- ipmi network settings --- aakulov --- development
+web3.otrs -- ipmi network settings --- aakulov --- development
+winhv06 -- VPS performance --- asazonov --- check
+winhv52 -- VPS performance --- ddavudov --- zero
+winhv54 -- VPS performance --- ddavudov --- zero
+winhv56 -- VPS performance --- ddavudov --- zero
+winhv57 -- VPS performance --- ddavudov --- zero
+winhv59 -- VPS performance --- ddavudov --- zero
+
+===[ Disk Usage ]===
+
+/// Critical
+
+ads622.hs.shared --- Disk usage
+node3.kvm.cloud.nebula --- Disk usage
+scm2.test.puppet --- Disk usage
+
+/// Warning
+
+ads691.hs.shared --- Disk usage
+be1.mail --- Disk usage
+be2.mail --- Disk usage
+be3.mail --- Disk usage
+be4.mail --- Disk usage
+be5.mail --- Disk usage
+be6.mail --- Disk usage
+be7.mail --- Disk usage
+btx30.hs.shared --- Disk usage
+btx32.hs.shared --- Disk usage
+btx33.hs.shared --- Disk usage
+btx34.hs.shared --- Disk usage
+cm106.hs.shared --- Disk usage
+dbe605.hs.shared --- Disk usage
+dbe612.hs.shared --- Disk usage
+dbe623.hs.shared --- Disk usage
+dbe624.hs.shared --- Disk usage
+dbe625.hs.shared --- Disk usage
+gen125.hs.shared --- Disk usage
+gen126.hs.shared --- Disk usage
+gen134.hs.shared --- Disk usage
+gen140.hs.shared --- Disk usage
+gen141.hs.shared --- Disk usage
+gen147.hs.shared --- Disk usage
+gen148.hs.shared --- Disk usage
+gen151.hs.shared --- Disk usage
+gen152.hs.shared --- Disk usage
+gen161.hs.shared --- Disk usage
+gen162.hs.shared --- Disk usage
+gen163.hs.shared --- Disk usage
+gen164.hs.shared --- Disk usage
+gen165.hs.shared --- Disk usage
+gen174.hs.shared --- Disk usage
+gen176.hs.shared --- Disk usage
+gen180.hs.shared --- Disk usage
+gen187.hs.shared --- Disk usage
+gen188.hs.shared --- Disk usage
+gen190.hs.shared --- Disk usage
+gen197.hs.shared --- Disk usage
+gen199.hs.shared --- Disk usage
+gen200.hs.shared --- Disk usage
+gen207.hs.shared --- Disk usage
+gen212.hs.shared --- Disk usage
+gen219.hs.shared --- Disk usage
+gen222.hs.shared --- Disk usage
+gen302.hs.shared --- Disk usage
+gen303.hs.shared --- Disk usage
+gen306.hs.shared --- Disk usage
+list1.mail --- Disk usage
+node2.dev.kube --- Disk usage
+node2.phpmyadmin.shared --- Disk usage
+node2.test.minio.ipam.infra --- Disk usage
+node3.gluster --- Disk usage
+node3.phpmyadmin.shared --- Disk usage
+node4.gluster --- Disk usage
+node6.kvm.nebula --- Disk usage
+pro23.hs.shared --- Disk usage
+pro25.hs.shared --- Disk usage
+pro27.hs.shared --- Disk usage
+pro32.hs.shared --- Disk usage
+pro45.hs.shared --- Disk usage
+pro52.hs.shared --- Disk usage
+red1.hs.shared --- Disk usage
+red13.hs.shared --- Disk usage
+red14.hs.shared --- Disk usage
+red17.hs.shared --- Disk usage
+red18.hs.shared --- Disk usage
+red19.hs.shared --- Disk usage
+red4.hs.shared --- Disk usage
+red5.hs.shared --- Disk usage
+red7.hs.shared --- Disk usage
+scm1.test.puppet --- Disk usage
+shared1.xen.virt --- Disk usage
+shared5.xen.virt --- Disk usage
+sst135.hs.shared --- Disk usage
+sst219.hs.shared --- Disk usage
+storage3.shared.backup --- Disk usage
+sup1.hq.infra --- Disk usage
+tmp.mon --- Disk usage
+
+===[ События смены ]===
+
+/// Подробности рассылки problems
+нет
+
+/// События DDoS, SPAM, остальные нагрузки, обработанные через интерфейс load.support.masterhost.ru
+
+32564237658	ilti.ru 			 вирус	отключение	2022-02-25 07:56:06
+
+/// Звонки
+нет
+
