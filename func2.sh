@@ -20,3 +20,4 @@ while [[ $again == "yes" ]]; do
 done
 
 fix
+fix2
