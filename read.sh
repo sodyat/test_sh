@@ -3,5 +3,5 @@
 
 
 read -e "enter value" 
-echo "reply='$reply'"
+echo "reply=$reply"
 

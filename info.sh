@@ -40,10 +40,9 @@ if [[ $REPLY == 3 ]]; then
 fi
 		if [[ $REPLY == 4 ]]; then
 		echo "Memory space Free | Used | Swap"
-			free -h
+		free -h 
 		fi
 		exit 
-	fi
 else
 		echo "Invalid entry" >&2
 		exit 1
